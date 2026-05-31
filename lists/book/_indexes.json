@@ -4,13 +4,14 @@
     "icon": "book.fill",
     "desc": "书中自有黄金屋",
     "count": 2,
+    "updateAt": 1780156800,
     "items": [
         {
             "id": "books_50",
             "name": "一生必读的50本书",
             "desc": "每一本都值得反复品味",
             "icon": "book.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         },
         {
@@ -18,7 +19,7 @@
             "name": "中国人必读的50本国学经典",
             "desc": "传承千年的智慧",
             "icon": "text.book.closed.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         }
     ]

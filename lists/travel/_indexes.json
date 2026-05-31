@@ -4,13 +4,14 @@
     "icon": "airplane",
     "desc": "世界那么大，我想去看看",
     "count": 4,
+    "updateAt": 1780156800,
     "items": [
         {
             "id": "countries_50",
             "name": "一生必去的50个国家",
             "desc": "用脚步丈量世界",
             "icon": "globe.asia.australia.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         },
         {
@@ -18,7 +19,7 @@
             "name": "中国最美的50个古镇",
             "desc": "青石板路上的旧时光",
             "icon": "house.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         },
         {
@@ -26,7 +27,7 @@
             "name": "全球最美的50座岛屿",
             "desc": "碧海蓝天的人间仙境",
             "icon": "sun.max.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         },
         {
@@ -34,7 +35,7 @@
             "name": "全球最美的50片海滩",
             "desc": "脚踩细沙，面朝大海",
             "icon": "beach.umbrella.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         }
     ]

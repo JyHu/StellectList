@@ -4,13 +4,14 @@
     "icon": "building.2.fill",
     "desc": "探索世界上最美的城市",
     "count": 2,
+    "updateAt": 1780156800,
     "items": [
         {
             "id": "cities_china",
             "name": "中国最美的50座城市",
             "desc": "总有一座城市让你念念不忘",
             "icon": "building.2.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         },
         {
@@ -18,7 +19,7 @@
             "name": "全球最浪漫的50座城市",
             "desc": "和爱的人一起去",
             "icon": "heart.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         }
     ]

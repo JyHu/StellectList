@@ -99,8 +99,11 @@ def validate_json_file(filepath):
         errors.append("'icon' must be a non-empty string")
     if "category" in data and (not isinstance(data["category"], str) or not data["category"].strip()):
         errors.append("'category' must be a non-empty string")
-    if "date" in data and (not isinstance(data["date"], str) or not data["date"].strip()):
-        errors.append("'date' must be a non-empty string")
+    if "date" in data:
+        if not isinstance(data["date"], (str, int, float)):
+            errors.append("'date' must be a date string or timestamp")
+        elif isinstance(data["date"], str) and not data["date"].strip():
+            errors.append("'date' must not be empty")
 
     # Validate items
     if "items" in data:
@@ -147,11 +150,30 @@ def collect_json_files():
     return files
 
 
-def update_list_count(filepath):
-    """Update the count field in a list JSON file to match its items length."""
+def _date_to_timestamp(date_str):
+    """Convert YYYY-MM-DD date string to second-level timestamp. Returns 0 for invalid."""
+    try:
+        parts = date_str.split("-")
+        from datetime import datetime, timezone, timedelta
+        tz = timezone(timedelta(hours=8))
+        dt = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=tz)
+        return int(dt.timestamp())
+    except (IndexError, ValueError, TypeError):
+        return 0
+
+
+def update_list_file(filepath):
+    """Update count and convert date to second-level timestamp in a list JSON file."""
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
     data["count"] = len(data.get("items", []))
+    # Convert date to second-level timestamp
+    date_val = data.get("date", "")
+    if isinstance(date_val, str) and date_val:
+        data["date"] = _date_to_timestamp(date_val)
+    elif isinstance(date_val, (int, float)) and date_val > 9999999999:
+        # Was millisecond timestamp, convert to seconds
+        data["date"] = int(date_val // 1000)
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
@@ -161,29 +183,33 @@ def generate_category_index(category_dir):
     category = category_dir.name
     items = []
     file_count = 0
+    latest_date = 0
 
     for filepath in sorted(category_dir.glob("*.json")):
         if filepath.name.startswith("_"):
             continue
         file_count += 1
         try:
-            # Update count in each list file
-            update_list_count(filepath)
+            # Update count and convert date in each list file
+            update_list_file(filepath)
             with open(filepath, "r", encoding="utf-8") as f:
                 data = json.load(f)
+            date_val = data.get("date", 0)
+            if isinstance(date_val, (int, float)) and date_val > latest_date:
+                latest_date = int(date_val)
             items.append({
                 "id": data["id"],
                 "name": data["name"],
                 "desc": data["desc"],
                 "icon": data.get("icon", ""),
-                "date": data.get("date", ""),
+                "date": date_val,
                 "count": data.get("count", 0),
             })
         except (json.JSONDecodeError, KeyError):
             continue
 
     # Sort: newest date first, then by name alphabetically for same date
-    items.sort(key=lambda x: (-_date_sort_key(x.get("date", "")), x.get("name", "")))
+    items.sort(key=lambda x: (-x.get("date", 0), x.get("name", "")))
 
     # Read existing _indexes.json to preserve category metadata (name/icon/desc)
     cat_index_file = category_dir / CATEGORY_INDEX_NAME
@@ -198,6 +224,7 @@ def generate_category_index(category_dir):
         "icon": cat_icon,
         "desc": cat_desc,
         "count": file_count,
+        "updateAt": latest_date,
         "items": items,
     }
 
@@ -207,18 +234,11 @@ def generate_category_index(category_dir):
     return file_count
 
 
-def _date_sort_key(date_str):
-    """Convert date string to sortable integer. Returns 0 for invalid dates."""
-    try:
-        parts = date_str.split("-")
-        return int(parts[0]) * 10000 + int(parts[1]) * 100 + int(parts[2])
-    except (IndexError, ValueError):
-        return 0
 
 
 def generate_root_index():
     """Generate the root indexes.json purely from lists/*/_indexes.json."""
-    categories = {}
+    categories = []
     warnings = []
 
     if not LISTS_DIR.exists():
@@ -248,16 +268,22 @@ def generate_root_index():
         if not cat_icon:
             warnings.append(f"Warning: category '{category}' missing 'icon', please update lists/{category}/{CATEGORY_INDEX_NAME}")
 
-        categories[category] = [{
+        cat_update_at = cat_data.get("updateAt", 0)
+
+        categories.append({
             "id": category,
             "name": cat_name,
             "icon": cat_icon,
             "desc": cat_desc,
             "count": cat_count,
-        }]
+            "updateAt": cat_update_at,
+        })
+
+    # Sort by updateAt descending (newest first)
+    categories.sort(key=lambda x: -x.get("updateAt", 0))
 
     root_data = {
-        "updateAt": int(time.time() * 1000),
+        "updateAt": int(time.time()),
         "categories": categories,
     }
     with open(ROOT_INDEX, "w", encoding="utf-8") as f:

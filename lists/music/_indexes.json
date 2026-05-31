@@ -4,13 +4,14 @@
     "icon": "music.note",
     "desc": "用音乐感受世界",
     "count": 2,
+    "updateAt": 1780156800,
     "items": [
         {
             "id": "music_50",
             "name": "一生必听的50首歌",
             "desc": "那些年循环播放的旋律",
             "icon": "music.note",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         },
         {
@@ -18,7 +19,7 @@
             "name": "华语乐坛最经典的50张专辑",
             "desc": "每张都是一个时代的记忆",
             "icon": "opticaldisc.fill",
-            "date": "2026-05-31",
+            "date": 1780156800,
             "count": 50
         }
     ]
