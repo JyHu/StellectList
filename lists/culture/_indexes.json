@@ -1,0 +1,25 @@
+{
+    "id": "culture",
+    "name": "文化",
+    "icon": "building.columns.fill",
+    "desc": "探索人类文明的瑰宝",
+    "count": 2,
+    "items": [
+        {
+            "id": "temples_china_50",
+            "name": "中国最美的50座寺庙",
+            "desc": "晨钟暮鼓，心归宁静",
+            "icon": "sparkles",
+            "date": "2026-05-31",
+            "count": 50
+        },
+        {
+            "id": "museums_50",
+            "name": "全球最值得参观的50座博物馆",
+            "desc": "穿越时空的对话",
+            "icon": "building.columns.fill",
+            "date": "2026-05-31",
+            "count": 50
+        }
+    ]
+}

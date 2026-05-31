@@ -1,0 +1,361 @@
+{
+    "id": "cities_china",
+    "name": "中国最美的50座城市",
+    "desc": "总有一座城市让你念念不忘",
+    "icon": "building.2.fill",
+    "category": "city",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "杭州",
+            "desc": "人间天堂，西湖美景",
+            "latitude": 30.2741,
+            "longitude": 120.1551,
+            "address": "浙江省杭州市"
+        },
+        {
+            "name": "苏州",
+            "desc": "上有天堂下有苏杭",
+            "latitude": 31.299,
+            "longitude": 120.5853,
+            "address": "江苏省苏州市"
+        },
+        {
+            "name": "成都",
+            "desc": "天府之国，美食之都",
+            "latitude": 30.5728,
+            "longitude": 104.0668,
+            "address": "四川省成都市"
+        },
+        {
+            "name": "西安",
+            "desc": "十三朝古都",
+            "latitude": 34.2658,
+            "longitude": 108.954,
+            "address": "陕西省西安市"
+        },
+        {
+            "name": "大理",
+            "desc": "风花雪月，苍山洱海",
+            "latitude": 25.6065,
+            "longitude": 100.2676,
+            "address": "云南省大理州"
+        },
+        {
+            "name": "丽江",
+            "desc": "纳西古城，玉龙雪山",
+            "latitude": 26.8721,
+            "longitude": 100.2299,
+            "address": "云南省丽江市"
+        },
+        {
+            "name": "厦门",
+            "desc": "海上花园，鼓浪屿",
+            "latitude": 24.4798,
+            "longitude": 118.0894,
+            "address": "福建省厦门市"
+        },
+        {
+            "name": "青岛",
+            "desc": "红瓦绿树碧海蓝天",
+            "latitude": 36.0671,
+            "longitude": 120.3826,
+            "address": "山东省青岛市"
+        },
+        {
+            "name": "桂林",
+            "desc": "桂林山水甲天下",
+            "latitude": 25.2736,
+            "longitude": 110.2907,
+            "address": "广西壮族自治区桂林市"
+        },
+        {
+            "name": "拉萨",
+            "desc": "日光城，信仰之地",
+            "latitude": 29.65,
+            "longitude": 91.1,
+            "address": "西藏自治区拉萨市"
+        },
+        {
+            "name": "敦煌",
+            "desc": "大漠孤烟，莫高窟",
+            "latitude": 40.1421,
+            "longitude": 94.6619,
+            "address": "甘肃省酒泉市敦煌市"
+        },
+        {
+            "name": "凤凰古城",
+            "desc": "沈从文笔下的边城",
+            "latitude": 27.9481,
+            "longitude": 109.5997,
+            "address": "湖南省湘西州"
+        },
+        {
+            "name": "香格里拉",
+            "desc": "消失的地平线",
+            "latitude": 27.8256,
+            "longitude": 99.7069,
+            "address": "云南省迪庆州"
+        },
+        {
+            "name": "三亚",
+            "desc": "东方夏威夷",
+            "latitude": 18.2528,
+            "longitude": 109.512,
+            "address": "海南省三亚市"
+        },
+        {
+            "name": "北京",
+            "desc": "千年古都，厚重历史",
+            "latitude": 39.9042,
+            "longitude": 116.4074,
+            "address": "北京市"
+        },
+        {
+            "name": "南京",
+            "desc": "六朝古都，金陵帝王州",
+            "latitude": 32.0603,
+            "longitude": 118.7969,
+            "address": "江苏省南京市"
+        },
+        {
+            "name": "洛阳",
+            "desc": "千年帝都，牡丹花城",
+            "latitude": 34.6197,
+            "longitude": 112.454,
+            "address": "河南省洛阳市"
+        },
+        {
+            "name": "景德镇",
+            "desc": "千年瓷都",
+            "latitude": 29.2689,
+            "longitude": 117.1786,
+            "address": "江西省景德镇市"
+        },
+        {
+            "name": "泉州",
+            "desc": "海上丝绸之路起点",
+            "latitude": 24.8741,
+            "longitude": 118.6757,
+            "address": "福建省泉州市"
+        },
+        {
+            "name": "张掖",
+            "desc": "七彩丹霞，塞上江南",
+            "latitude": 38.9256,
+            "longitude": 100.4512,
+            "address": "甘肃省张掖市"
+        },
+        {
+            "name": "上海",
+            "desc": "十里洋场，东方明珠",
+            "latitude": 31.2304,
+            "longitude": 121.4737,
+            "address": "上海市"
+        },
+        {
+            "name": "重庆",
+            "desc": "山城夜景，雾都江城",
+            "latitude": 29.563,
+            "longitude": 106.5516,
+            "address": "重庆市"
+        },
+        {
+            "name": "昆明",
+            "desc": "春城无处不飞花",
+            "latitude": 25.0389,
+            "longitude": 102.7183,
+            "address": "云南省昆明市"
+        },
+        {
+            "name": "武汉",
+            "desc": "黄鹤楼前江水流",
+            "latitude": 30.5928,
+            "longitude": 114.3055,
+            "address": "湖北省武汉市"
+        },
+        {
+            "name": "长沙",
+            "desc": "湘江北去，橘子洲头",
+            "latitude": 28.2282,
+            "longitude": 112.9388,
+            "address": "湖南省长沙市"
+        },
+        {
+            "name": "广州",
+            "desc": "花城锦绣，千年商都",
+            "latitude": 23.1291,
+            "longitude": 113.2644,
+            "address": "广东省广州市"
+        },
+        {
+            "name": "深圳",
+            "desc": "创新之城，面朝大海",
+            "latitude": 22.5431,
+            "longitude": 114.0579,
+            "address": "广东省深圳市"
+        },
+        {
+            "name": "哈尔滨",
+            "desc": "冰城雪韵，异域风情",
+            "latitude": 45.8038,
+            "longitude": 126.535,
+            "address": "黑龙江省哈尔滨市"
+        },
+        {
+            "name": "九寨沟",
+            "desc": "童话世界，人间瑶池",
+            "latitude": 33.26,
+            "longitude": 103.92,
+            "address": "四川省阿坝州九寨沟县"
+        },
+        {
+            "name": "黄山",
+            "desc": "五岳归来不看山",
+            "latitude": 30.1375,
+            "longitude": 118.1694,
+            "address": "安徽省黄山市"
+        },
+        {
+            "name": "婺源",
+            "desc": "中国最美乡村",
+            "latitude": 29.2484,
+            "longitude": 117.8613,
+            "address": "江西省上饶市婺源县"
+        },
+        {
+            "name": "西塘",
+            "desc": "烟雨长廊，枕水人家",
+            "latitude": 30.9464,
+            "longitude": 120.8926,
+            "address": "浙江省嘉兴市嘉善县"
+        },
+        {
+            "name": "乌镇",
+            "desc": "小桥流水，似水年华",
+            "latitude": 30.7445,
+            "longitude": 120.4937,
+            "address": "浙江省嘉兴市桐乡市"
+        },
+        {
+            "name": "平遥",
+            "desc": "千年古城，晋商故里",
+            "latitude": 37.1896,
+            "longitude": 112.174,
+            "address": "山西省晋中市平遥县"
+        },
+        {
+            "name": "稻城亚丁",
+            "desc": "蓝色星球最后净土",
+            "latitude": 28.5853,
+            "longitude": 100.298,
+            "address": "四川省甘孜州稻城县"
+        },
+        {
+            "name": "喀什",
+            "desc": "丝路明珠，异域风情",
+            "latitude": 39.4704,
+            "longitude": 75.9899,
+            "address": "新疆维吾尔自治区喀什市"
+        },
+        {
+            "name": "腾冲",
+            "desc": "极边第一城，温泉之乡",
+            "latitude": 25.0201,
+            "longitude": 98.4975,
+            "address": "云南省保山市腾冲市"
+        },
+        {
+            "name": "阳朔",
+            "desc": "甲天下山水之精华",
+            "latitude": 24.7741,
+            "longitude": 110.4968,
+            "address": "广西壮族自治区桂林市阳朔县"
+        },
+        {
+            "name": "台北",
+            "desc": "宝岛繁华，故宫瑰宝",
+            "latitude": 25.033,
+            "longitude": 121.5654,
+            "address": "台湾省台北市"
+        },
+        {
+            "name": "扬州",
+            "desc": "烟花三月下扬州",
+            "latitude": 32.3942,
+            "longitude": 119.4127,
+            "address": "江苏省扬州市"
+        },
+        {
+            "name": "绍兴",
+            "desc": "鉴湖越台名士乡",
+            "latitude": 30.0025,
+            "longitude": 120.5802,
+            "address": "浙江省绍兴市"
+        },
+        {
+            "name": "大同",
+            "desc": "云冈石窟，北魏遗韵",
+            "latitude": 40.0762,
+            "longitude": 113.2988,
+            "address": "山西省大同市"
+        },
+        {
+            "name": "泸沽湖",
+            "desc": "高原明珠，摩梭秘境",
+            "latitude": 27.7069,
+            "longitude": 100.787,
+            "address": "云南省丽江市宁蒗县"
+        },
+        {
+            "name": "呼伦贝尔",
+            "desc": "天苍苍野茫茫",
+            "latitude": 49.2122,
+            "longitude": 119.7659,
+            "address": "内蒙古自治区呼伦贝尔市"
+        },
+        {
+            "name": "纳木错",
+            "desc": "天湖之畔，圣洁如镜",
+            "latitude": 30.7,
+            "longitude": 90.5,
+            "address": "西藏自治区拉萨市当雄县"
+        },
+        {
+            "name": "珠海",
+            "desc": "百岛之城，浪漫之都",
+            "latitude": 22.271,
+            "longitude": 113.5767,
+            "address": "广东省珠海市"
+        },
+        {
+            "name": "济南",
+            "desc": "泉城四季，荷柳依依",
+            "latitude": 36.6512,
+            "longitude": 116.9972,
+            "address": "山东省济南市"
+        },
+        {
+            "name": "福州",
+            "desc": "榕城古韵，三坊七巷",
+            "latitude": 26.0745,
+            "longitude": 119.2965,
+            "address": "福建省福州市"
+        },
+        {
+            "name": "威海",
+            "desc": "碧海蓝天，仙境海岸",
+            "latitude": 37.5131,
+            "longitude": 122.12,
+            "address": "山东省威海市"
+        },
+        {
+            "name": "伊犁",
+            "desc": "塞外江南，薰衣草海",
+            "latitude": 43.9219,
+            "longitude": 81.3179,
+            "address": "新疆维吾尔自治区伊犁州伊宁市"
+        }
+    ],
+    "count": 50
+}

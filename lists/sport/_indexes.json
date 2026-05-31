@@ -1,0 +1,17 @@
+{
+    "id": "sport",
+    "name": "运动",
+    "icon": "sportscourt.fill",
+    "desc": "挑战身体的极限",
+    "count": 1,
+    "items": [
+        {
+            "id": "sports_50",
+            "name": "一生必体验的50项运动",
+            "desc": "挑战自我，超越极限",
+            "icon": "figure.run",
+            "date": "2026-05-31",
+            "count": 50
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "life",
+    "name": "人生",
+    "icon": "heart.fill",
+    "desc": "人生清单，不留遗憾",
+    "count": 2,
+    "items": [
+        {
+            "id": "life_100",
+            "name": "一辈子要完成的100件事",
+            "desc": "人生清单，不留遗憾",
+            "icon": "heart.fill",
+            "date": "2026-05-31",
+            "count": 100
+        },
+        {
+            "id": "before_retire_50",
+            "name": "退休前必完成的50件事",
+            "desc": "趁还年轻，别留遗憾",
+            "icon": "star.fill",
+            "date": "2026-05-31",
+            "count": 50
+        }
+    ]
+}

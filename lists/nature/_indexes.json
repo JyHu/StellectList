@@ -1,0 +1,33 @@
+{
+    "id": "nature",
+    "name": "自然",
+    "icon": "leaf.fill",
+    "desc": "大自然的鬼斧神工",
+    "count": 3,
+    "items": [
+        {
+            "id": "nature_china_50",
+            "name": "中国最美的50个自然景观",
+            "desc": "大自然的鬼斧神工",
+            "icon": "mountain.2.fill",
+            "date": "2026-05-31",
+            "count": 50
+        },
+        {
+            "id": "waterfalls_50",
+            "name": "全球最壮观的50条瀑布",
+            "desc": "飞流直下三千尺",
+            "icon": "drop.fill",
+            "date": "2026-05-31",
+            "count": 50
+        },
+        {
+            "id": "stargazing_50",
+            "name": "全球最震撼的50个星空观测点",
+            "desc": "仰望星空，感受宇宙",
+            "icon": "star.fill",
+            "date": "2026-05-31",
+            "count": 50
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "id": "music_50",
+    "name": "一生必听的50首歌",
+    "desc": "那些年循环播放的旋律",
+    "icon": "music.note",
+    "category": "music",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "Bohemian Rhapsody - Queen",
+            "desc": "摇滚歌剧的巅峰，六分钟的史诗"
+        },
+        {
+            "name": "海阔天空 - Beyond",
+            "desc": "追梦者的赞歌，永不妥协的信念"
+        },
+        {
+            "name": "Hotel California - Eagles",
+            "desc": "加州旅馆的迷幻之夜，一去不返的青春"
+        },
+        {
+            "name": "晴天 - 周杰伦",
+            "desc": "阳光洒落操场，回忆里最美的夏天"
+        },
+        {
+            "name": "Yesterday - The Beatles",
+            "desc": "往日时光一去不返的温柔感伤"
+        },
+        {
+            "name": "一生所爱 - 卢冠廷",
+            "desc": "至尊宝转身那一刻，爱已成遗憾"
+        },
+        {
+            "name": "Imagine - John Lennon",
+            "desc": "想象一个没有纷争的世界"
+        },
+        {
+            "name": "千千阙歌 - 陈慧娴",
+            "desc": "离别时分，千言万语化作一首歌"
+        },
+        {
+            "name": "Stairway to Heaven - Led Zeppelin",
+            "desc": "通往天堂的阶梯，摇滚乐的圣歌"
+        },
+        {
+            "name": "红豆 - 王菲",
+            "desc": "等一个人，等到红豆也生了南国"
+        },
+        {
+            "name": "Like a Rolling Stone - Bob Dylan",
+            "desc": "坠落谷底时方知自由的滋味"
+        },
+        {
+            "name": "但愿人长久 - 邓丽君",
+            "desc": "千里共婵娟的古典柔情"
+        },
+        {
+            "name": "What a Wonderful World - Louis Armstrong",
+            "desc": "世界如此美好，只要你愿意去看"
+        },
+        {
+            "name": "春天里 - 汪峰",
+            "desc": "如果有一天我老无所依，请把我留在那时光里"
+        },
+        {
+            "name": "Smells Like Teen Spirit - Nirvana",
+            "desc": "一代人叛逆与迷茫的集体呐喊"
+        },
+        {
+            "name": "花房姑娘 - 崔健",
+            "desc": "中国摇滚的浪漫诗篇"
+        },
+        {
+            "name": "Let It Be - The Beatles",
+            "desc": "顺其自然，一切都会好起来"
+        },
+        {
+            "name": "光辉岁月 - Beyond",
+            "desc": "献给曼德拉，也献给每个不屈的灵魂"
+        },
+        {
+            "name": "A Whole New World - Aladdin",
+            "desc": "带你看全新的世界，爱情让一切闪耀"
+        },
+        {
+            "name": "后来 - 刘若英",
+            "desc": "后来我终于学会了如何去爱"
+        },
+        {
+            "name": "Nothing Else Matters - Metallica",
+            "desc": "除了你我之间，其他都不重要"
+        },
+        {
+            "name": "匆匆那年 - 王菲",
+            "desc": "匆匆那年我们究竟说了几遍再见"
+        },
+        {
+            "name": "千本樱 - 初音ミク",
+            "desc": "大正浪漫的虚拟幻想，樱花飞舞"
+        },
+        {
+            "name": "同桌的你 - 老狼",
+            "desc": "校园民谣的温暖记忆，青涩的你"
+        },
+        {
+            "name": "Hallelujah - Leonard Cohen",
+            "desc": "破碎中的神圣，痛苦中的赞美"
+        },
+        {
+            "name": "夜空中最亮的星 - 逃跑计划",
+            "desc": "在迷茫中仰望，总有星光指引方向"
+        },
+        {
+            "name": "残酷な天使のテーゼ - 高橋洋子",
+            "desc": "少年啊成为神话吧，EVA的永恒旋律"
+        },
+        {
+            "name": "青花瓷 - 周杰伦",
+            "desc": "天青色等烟雨，而我在等你"
+        },
+        {
+            "name": "My Heart Will Go On - Celine Dion",
+            "desc": "跨越生死的爱情，心永远不会沉没"
+        },
+        {
+            "name": "送别 - 李叔同",
+            "desc": "长亭外古道边，离别是人生的必修课"
+        },
+        {
+            "name": "Fly Me to the Moon - Frank Sinatra",
+            "desc": "带我飞向月球，让我在星空中起舞"
+        },
+        {
+            "name": "童年 - 罗大佑",
+            "desc": "池塘边的榕树上，知了在声声叫着夏天"
+        },
+        {
+            "name": "Fix You - Coldplay",
+            "desc": "当你失去一切，我会陪你修补裂痕"
+        },
+        {
+            "name": "橄榄树 - 齐豫",
+            "desc": "不要问我从哪里来，流浪是诗人的宿命"
+        },
+        {
+            "name": "川の流れのように - 美空ひばり",
+            "desc": "人生如河流般蜿蜒，终归入海"
+        },
+        {
+            "name": "平凡之路 - 朴树",
+            "desc": "跨过山和大海，也穿过人山人海"
+        },
+        {
+            "name": "Shape of My Heart - Sting",
+            "desc": "纸牌背后的哲学，杀手的柔情"
+        },
+        {
+            "name": "恋曲1990 - 罗大佑",
+            "desc": "乌溜溜的黑眼珠，七十年代的浪漫"
+        },
+        {
+            "name": "Somewhere Over the Rainbow - Judy Garland",
+            "desc": "彩虹之上一定有个更美好的地方"
+        },
+        {
+            "name": "退后 - 周杰伦",
+            "desc": "爱到深处是放手，退后让你看清楚"
+        },
+        {
+            "name": "Tears in Heaven - Eric Clapton",
+            "desc": "天堂里是否还有眼泪，一位父亲的悲伤"
+        },
+        {
+            "name": "可惜不是你 - 梁静茹",
+            "desc": "最对的人出现在最错的时间"
+        },
+        {
+            "name": "Comptine d'un autre été - Yann Tiersen",
+            "desc": "天使爱美丽的巴黎午后"
+        },
+        {
+            "name": "明天会更好 - 群星",
+            "desc": "华语乐坛的集体希望之歌"
+        },
+        {
+            "name": "Time After Time - Cyndi Lauper",
+            "desc": "无论多少次跌倒，我都在这里接住你"
+        },
+        {
+            "name": "光年之外 - 邓紫棋",
+            "desc": "穿越光年只为与你相遇"
+        },
+        {
+            "name": "夢の中へ - 井上陽水",
+            "desc": "在梦中寻找遗失的东西"
+        },
+        {
+            "name": "弯弯的月亮 - 刘欢",
+            "desc": "故乡的月光，游子的乡愁"
+        },
+        {
+            "name": "Sound of Silence - Simon & Garfunkel",
+            "desc": "在喧嚣中倾听寂静的声音"
+        },
+        {
+            "name": "天空之城 - 久石让",
+            "desc": "少年的梦想在云端飘荡，纯净如初"
+        }
+    ],
+    "count": 50
+}

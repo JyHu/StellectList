@@ -1,0 +1,361 @@
+{
+    "id": "cafes_50",
+    "name": "全球最棒的50家咖啡馆",
+    "desc": "一杯咖啡，一段时光",
+    "icon": "cup.and.saucer.fill",
+    "category": "food",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "Blue Bottle Coffee (清澄白河店)",
+            "desc": "第三波咖啡浪潮的先驱，极简美学与精品咖啡的完美结合",
+            "latitude": 35.6812,
+            "longitude": 139.7994,
+            "address": "日本东京都江东区平野1-4-8"
+        },
+        {
+            "name": "Café de Flore",
+            "desc": "巴黎左岸传奇咖啡馆，萨特与波伏娃的灵感之地",
+            "latitude": 48.8541,
+            "longitude": 2.3326,
+            "address": "172 Boulevard Saint-Germain, 75006 Paris, France"
+        },
+        {
+            "name": "Stumptown Coffee Roasters",
+            "desc": "波特兰精品咖啡的代表，以直接贸易闻名",
+            "latitude": 45.5219,
+            "longitude": -122.6823,
+            "address": "128 SW 3rd Ave, Portland, OR 97204, USA"
+        },
+        {
+            "name": "Patricia Coffee Brewers",
+            "desc": "墨尔本站立式咖啡馆，小而精致的咖啡体验",
+            "latitude": -37.8118,
+            "longitude": 144.9628,
+            "address": "493 Little Bourke St, Melbourne VIC 3000, Australia"
+        },
+        {
+            "name": "% Arabica (京都岚山店)",
+            "desc": "面朝渡月桥的绝美咖啡馆，一杯拿铁配京都风景",
+            "latitude": 35.0116,
+            "longitude": 135.6778,
+            "address": "日本京都府京都市右京区嵯峨天龙寺芒ノ马场町3-47"
+        },
+        {
+            "name": "Intelligentsia Coffee",
+            "desc": "芝加哥精品咖啡先锋，推动了直接贸易咖啡运动",
+            "latitude": 41.8932,
+            "longitude": -87.6482,
+            "address": "53 E Randolph St, Chicago, IL 60601, USA"
+        },
+        {
+            "name": "The Barn (柏林)",
+            "desc": "柏林极简主义咖啡圣地，浅烘焙的极致表达",
+            "latitude": 52.5292,
+            "longitude": 13.4102,
+            "address": "Schönhauser Allee 8, 10119 Berlin, Germany"
+        },
+        {
+            "name": "Fuglen Tokyo",
+            "desc": "北欧复古风格咖啡馆，白天咖啡夜晚鸡尾酒",
+            "latitude": 35.6647,
+            "longitude": 139.6945,
+            "address": "日本东京都�的谷区富ヶ谷1-16-11"
+        },
+        {
+            "name": "Café Central (维也纳)",
+            "desc": "维也纳百年咖啡殿堂，弗洛伊德与茨威格的常驻之所",
+            "latitude": 48.2107,
+            "longitude": 16.3654,
+            "address": "Herrengasse 14, 1010 Wien, Austria"
+        },
+        {
+            "name": "Sightglass Coffee",
+            "desc": "旧金山工业风咖啡烘焙坊，开放式烘焙空间",
+            "latitude": 37.7688,
+            "longitude": -122.4099,
+            "address": "270 7th St, San Francisco, CA 94103, USA"
+        },
+        {
+            "name": "Onibus Coffee (中目黑店)",
+            "desc": "东京精品咖啡新势力，社区咖啡文化的推动者",
+            "latitude": 35.6439,
+            "longitude": 139.6989,
+            "address": "日本东京都目黑区上目黒2-14-1"
+        },
+        {
+            "name": "Tim Wendelboe (奥斯陆)",
+            "desc": "世界咖啡师冠军的自营店，北欧浅烘的教科书",
+            "latitude": 59.9208,
+            "longitude": 10.7589,
+            "address": "Grünerløkka, Fossveien 2, 0551 Oslo, Norway"
+        },
+        {
+            "name": "Monmouth Coffee (博罗市场店)",
+            "desc": "伦敦最受欢迎的咖啡馆之一，排队也值得等待",
+            "latitude": 51.5054,
+            "longitude": -0.091,
+            "address": "2 Park St, London SE1 9AB, UK"
+        },
+        {
+            "name": "Cafe Sabarsky (纽约)",
+            "desc": "纽约新画廊内的维也纳式咖啡馆，艺术与咖啡的邂逅",
+            "latitude": 40.7814,
+            "longitude": -73.96,
+            "address": "1048 5th Ave, New York, NY 10028, USA"
+        },
+        {
+            "name": "Revolver Espresso (巴厘岛)",
+            "desc": "乌布小巷中的隐藏咖啡馆，巴厘岛最佳浓缩",
+            "latitude": -8.5068,
+            "longitude": 115.2608,
+            "address": "Jl. Kayu Aya Gang 51, Seminyak, Bali, Indonesia"
+        },
+        {
+            "name": "Seesaw Coffee (上海愚园路店)",
+            "desc": "中国精品咖啡品牌代表，融合东方美学的咖啡空间",
+            "latitude": 31.2218,
+            "longitude": 121.4298,
+            "address": "中国上海市静安区愚园路433号"
+        },
+        {
+            "name": "Heart Coffee Roasters (波特兰)",
+            "desc": "日本与美国咖啡文化的完美融合",
+            "latitude": 45.5236,
+            "longitude": -122.6584,
+            "address": "537 SW 12th Ave, Portland, OR 97205, USA"
+        },
+        {
+            "name": "Coffee Collective (哥本哈根)",
+            "desc": "丹麦精品咖啡领军者，坚持可持续发展理念",
+            "latitude": 55.6905,
+            "longitude": 12.5536,
+            "address": "Jægersborggade 57, 2200 København, Denmark"
+        },
+        {
+            "name": "Elephant Grounds (香港)",
+            "desc": "香港特色精品咖啡，创意冰淇淋咖啡闻名",
+            "latitude": 22.2805,
+            "longitude": 114.1535,
+            "address": "香港西营盘德辅道西18号"
+        },
+        {
+            "name": "Saturdays NYC (纽约)",
+            "desc": "冲浪文化与精品咖啡的跨界融合",
+            "latitude": 40.7303,
+            "longitude": -74.0005,
+            "address": "31 Crosby St, New York, NY 10013, USA"
+        },
+        {
+            "name": "Bonanza Coffee (柏林)",
+            "desc": "柏林精品咖啡的开拓者，专注单一产地咖啡",
+            "latitude": 52.531,
+            "longitude": 13.418,
+            "address": "Oderberger Str. 35, 10435 Berlin, Germany"
+        },
+        {
+            "name": "Café Kitsuné (巴黎皇家宫殿店)",
+            "desc": "时尚品牌旗下咖啡馆，巴黎最美花园露台",
+            "latitude": 48.8637,
+            "longitude": 2.337,
+            "address": "2 Rue de Richelieu, 75001 Paris, France"
+        },
+        {
+            "name": "Verve Coffee Roasters (洛杉矶)",
+            "desc": "加州阳光下的精品咖啡，从圣克鲁兹走向世界",
+            "latitude": 34.0195,
+            "longitude": -118.4912,
+            "address": "8925 Washington Blvd, Culver City, CA 90232, USA"
+        },
+        {
+            "name": "La Colombe (费城)",
+            "desc": "费城起家的精品咖啡品牌，Draft Latte的发明者",
+            "latitude": 39.9528,
+            "longitude": -75.1635,
+            "address": "1335 Frankford Ave, Philadelphia, PA 19125, USA"
+        },
+        {
+            "name": "Koffee Mameya (东京表参道)",
+            "desc": "东京最难预约的咖啡馆，一对一定制咖啡体验",
+            "latitude": 35.6668,
+            "longitude": 139.7102,
+            "address": "日本东京都渋谷区神宮前4-15-3"
+        },
+        {
+            "name": "Proud Mary (墨尔本)",
+            "desc": "墨尔本多次获奖的咖啡馆，早午餐同样出色",
+            "latitude": -37.7987,
+            "longitude": 144.9933,
+            "address": "172 Oxford St, Collingwood VIC 3066, Australia"
+        },
+        {
+            "name": "Coutume Café (巴黎)",
+            "desc": "巴黎第三波咖啡浪潮的重要推手",
+            "latitude": 48.8492,
+            "longitude": 2.3154,
+            "address": "47 Rue de Babylone, 75007 Paris, France"
+        },
+        {
+            "name": "Felt Coffee (首尔)",
+            "desc": "首尔弘大人气咖啡馆，韩式咖啡美学的代表",
+            "latitude": 37.5563,
+            "longitude": 126.9237,
+            "address": "韩国首尔市麻浦区卧牛山路29巷"
+        },
+        {
+            "name": "Mame (苏黎世)",
+            "desc": "瑞士精品咖啡冠军店，极致追求咖啡品质",
+            "latitude": 47.3744,
+            "longitude": 8.531,
+            "address": "Josefstrasse 160, 8005 Zürich, Switzerland"
+        },
+        {
+            "name": "Finca Santa Elena (危地马拉安提瓜)",
+            "desc": "咖啡庄园内的品鉴室，从种子到杯子的完整体验",
+            "latitude": 14.5455,
+            "longitude": -90.734,
+            "address": "Antigua Guatemala, Sacatepéquez, Guatemala"
+        },
+        {
+            "name": "Single O (悉尼)",
+            "desc": "悉尼萨里山的咖啡实验室，创新无止境",
+            "latitude": -33.8871,
+            "longitude": 151.211,
+            "address": "60-64 Reservoir St, Surry Hills NSW 2010, Australia"
+        },
+        {
+            "name": "Toby's Estate (新加坡)",
+            "desc": "新加坡精品咖啡的标杆，工业风格烘焙空间",
+            "latitude": 1.2878,
+            "longitude": 103.844,
+            "address": "8 Rodyk St, Singapore 238216"
+        },
+        {
+            "name": "Glitch Coffee (东京神保町)",
+            "desc": "东京单品咖啡圣地，只做手冲不做意式",
+            "latitude": 35.6955,
+            "longitude": 139.7571,
+            "address": "日本东京都千代田区神田錦町3-16"
+        },
+        {
+            "name": "Antico Caffè Greco (罗马)",
+            "desc": "罗马最古老的咖啡馆，建于1760年的历史瑰宝",
+            "latitude": 41.9058,
+            "longitude": 12.4803,
+            "address": "Via dei Condotti 86, 00187 Roma, Italy"
+        },
+        {
+            "name": "Cafe Tortoni (布宜诺斯艾利斯)",
+            "desc": "阿根廷最具标志性的咖啡馆，探戈与文学的摇篮",
+            "latitude": -34.6089,
+            "longitude": -58.3801,
+            "address": "Av. de Mayo 825, Buenos Aires, Argentina"
+        },
+        {
+            "name": "Manhattan Coffee Roasters (鹿特丹)",
+            "desc": "荷兰精品咖啡新星，专注浅中烘焙",
+            "latitude": 51.9194,
+            "longitude": 4.4869,
+            "address": "Witte de Withstraat 62, 3012 BR Rotterdam, Netherlands"
+        },
+        {
+            "name": "Assembly Coffee (新加坡)",
+            "desc": "新加坡获奖无数的精品咖啡馆",
+            "latitude": 1.2797,
+            "longitude": 103.845,
+            "address": "26 Evans Rd, Singapore 259367"
+        },
+        {
+            "name": "Gardelli Specialty Coffees (福利)",
+            "desc": "意大利世界烘焙冠军的咖啡馆，颠覆传统意式风格",
+            "latitude": 44.2228,
+            "longitude": 12.0408,
+            "address": "Via Bertini 16, 47121 Forlì, Italy"
+        },
+        {
+            "name": "Draft Land (台北)",
+            "desc": "亚洲最佳酒吧主理人开设的咖啡空间",
+            "latitude": 25.033,
+            "longitude": 121.5468,
+            "address": "台湾台北市大安区忠孝东路四段248巷3号"
+        },
+        {
+            "name": "Bear Pond Espresso (东京下北沢)",
+            "desc": "传说中「世界最好喝的浓缩咖啡」，老板脾气古怪但技术一流",
+            "latitude": 35.6614,
+            "longitude": 139.6682,
+            "address": "日本东京都世田谷区北沢2-36-12"
+        },
+        {
+            "name": "Industry Beans (墨尔本)",
+            "desc": "墨尔本创意咖啡与美食的完美结合",
+            "latitude": -37.7977,
+            "longitude": 144.9883,
+            "address": "3/62 Rose St, Fitzroy VIC 3065, Australia"
+        },
+        {
+            "name": "Copenhagen Coffee Lab (里斯本)",
+            "desc": "北欧咖啡文化与葡萄牙阳光的美妙碰撞",
+            "latitude": 38.7139,
+            "longitude": -9.1457,
+            "address": "R. Nova da Piedade 10, 1200-298 Lisboa, Portugal"
+        },
+        {
+            "name": "Little Nap Coffee Stand (东京代代木公园)",
+            "desc": "东京最惬意的户外咖啡站，公园旁的一方天地",
+            "latitude": 35.6703,
+            "longitude": 139.6894,
+            "address": "日本东京都渋谷区代々木5-65-4"
+        },
+        {
+            "name": "Café Lomi (巴黎)",
+            "desc": "巴黎18区的咖啡烘焙圣地，工业风空间",
+            "latitude": 48.8888,
+            "longitude": 2.3494,
+            "address": "3ter Rue Marcadet, 75018 Paris, France"
+        },
+        {
+            "name": "Metal Hands (北京)",
+            "desc": "北京胡同里的精品咖啡先锋，中国独立咖啡文化代表",
+            "latitude": 39.9387,
+            "longitude": 116.395,
+            "address": "中国北京市东城区北新桥板桥南巷7号"
+        },
+        {
+            "name": "Kaizen Coffee (曼谷)",
+            "desc": "曼谷Ekkamai区的日系精品咖啡馆",
+            "latitude": 13.7195,
+            "longitude": 100.5853,
+            "address": "1/F, Seen Space, Thonglor Soi 13, Bangkok, Thailand"
+        },
+        {
+            "name": "Father Carpenter (柏林)",
+            "desc": "柏林米特区的澳式咖啡馆，brunch文化的引领者",
+            "latitude": 52.5267,
+            "longitude": 13.403,
+            "address": "Münzstraße 21, 10178 Berlin, Germany"
+        },
+        {
+            "name": "Campos Coffee (悉尼)",
+            "desc": "悉尼纽镇的咖啡机构，澳洲咖啡文化的中坚力量",
+            "latitude": -33.8982,
+            "longitude": 151.1795,
+            "address": "193 Missenden Rd, Newtown NSW 2042, Australia"
+        },
+        {
+            "name": "Sey Coffee (纽约布鲁克林)",
+            "desc": "布鲁克林精品咖啡新锐，极致的品质追求",
+            "latitude": 40.7157,
+            "longitude": -73.937,
+            "address": "18 Grattan St, Brooklyn, NY 11206, USA"
+        },
+        {
+            "name": "Iris Café (成都)",
+            "desc": "成都太古里旁的精品咖啡空间，川西风情融入咖啡美学",
+            "latitude": 30.6571,
+            "longitude": 104.0856,
+            "address": "中国四川省成都市锦江区中纱帽街8号"
+        }
+    ],
+    "count": 50
+}

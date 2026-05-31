@@ -1,0 +1,361 @@
+{
+    "id": "beijing_mountains",
+    "name": "北京周边值得爬的50座山",
+    "desc": "京郊徒步宝藏，周末说走就走",
+    "icon": "figure.hiking",
+    "category": "hiking",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "香山",
+            "desc": "红叶最美的季节",
+            "latitude": 39.9928,
+            "longitude": 116.1887,
+            "address": "北京市海淀区"
+        },
+        {
+            "name": "灵山",
+            "desc": "北京最高峰，海拔2303米",
+            "latitude": 39.9667,
+            "longitude": 115.4667,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "海坨山",
+            "desc": "北京第二高峰",
+            "latitude": 40.5167,
+            "longitude": 115.85,
+            "address": "北京市延庆区"
+        },
+        {
+            "name": "百花山",
+            "desc": "高山草甸，花海连天",
+            "latitude": 39.8833,
+            "longitude": 115.55,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "妙峰山",
+            "desc": "金顶妙峰，古道驿站",
+            "latitude": 39.9833,
+            "longitude": 116.0833,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "云蒙山",
+            "desc": "小黄山之称",
+            "latitude": 40.55,
+            "longitude": 116.7333,
+            "address": "北京市密云区"
+        },
+        {
+            "name": "雾灵山",
+            "desc": "华北物种基因库",
+            "latitude": 40.5833,
+            "longitude": 117.4833,
+            "address": "河北省承德市兴隆县"
+        },
+        {
+            "name": "凤凰岭",
+            "desc": "城市后花园",
+            "latitude": 40.0667,
+            "longitude": 116.1167,
+            "address": "北京市海淀区"
+        },
+        {
+            "name": "鹫峰",
+            "desc": "梅花谷赏梅胜地",
+            "latitude": 40.05,
+            "longitude": 116.1,
+            "address": "北京市海淀区"
+        },
+        {
+            "name": "百望山",
+            "desc": "太行山余脉入京第一峰",
+            "latitude": 40.0333,
+            "longitude": 116.25,
+            "address": "北京市海淀区"
+        },
+        {
+            "name": "阳台山",
+            "desc": "京西登山经典路线",
+            "latitude": 40.0667,
+            "longitude": 116.0833,
+            "address": "北京市海淀区"
+        },
+        {
+            "name": "蟒山",
+            "desc": "十三陵水库旁的绿色屏障",
+            "latitude": 40.25,
+            "longitude": 116.2333,
+            "address": "北京市昌平区"
+        },
+        {
+            "name": "西山大觉寺",
+            "desc": "千年古刹登山路",
+            "latitude": 40.0333,
+            "longitude": 116.1167,
+            "address": "北京市海淀区"
+        },
+        {
+            "name": "箭扣长城",
+            "desc": "最险野长城徒步",
+            "latitude": 40.5,
+            "longitude": 116.55,
+            "address": "北京市怀柔区"
+        },
+        {
+            "name": "司马台长城",
+            "desc": "唯一保留夜游的长城",
+            "latitude": 40.6667,
+            "longitude": 117.25,
+            "address": "北京市密云区"
+        },
+        {
+            "name": "红螺山",
+            "desc": "红螺寺后的静谧山林",
+            "latitude": 40.3833,
+            "longitude": 116.6167,
+            "address": "北京市怀柔区"
+        },
+        {
+            "name": "喇叭沟门原始森林",
+            "desc": "北京最北的自然保护区",
+            "latitude": 40.9,
+            "longitude": 116.6333,
+            "address": "北京市怀柔区"
+        },
+        {
+            "name": "黄花城水长城",
+            "desc": "长城入水的奇景",
+            "latitude": 40.4167,
+            "longitude": 116.35,
+            "address": "北京市怀柔区"
+        },
+        {
+            "name": "大杨山",
+            "desc": "昌平的天然氧吧",
+            "latitude": 40.3333,
+            "longitude": 116.35,
+            "address": "北京市昌平区"
+        },
+        {
+            "name": "北灵山",
+            "desc": "高山杜鹃花开时",
+            "latitude": 39.95,
+            "longitude": 115.45,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "雾灵西峰",
+            "desc": "峡谷漂流与登山结合",
+            "latitude": 40.55,
+            "longitude": 117.35,
+            "address": "北京市密云区"
+        },
+        {
+            "name": "龙门涧",
+            "desc": "京西小三峡",
+            "latitude": 39.9667,
+            "longitude": 115.6,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "狗牙山",
+            "desc": "锯齿形山脊惊险穿越",
+            "latitude": 40.5333,
+            "longitude": 116.5833,
+            "address": "北京市怀柔区"
+        },
+        {
+            "name": "黄草梁",
+            "desc": "京西古道最高点",
+            "latitude": 39.9833,
+            "longitude": 115.6833,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "银山塔林",
+            "desc": "古塔群中的登山小径",
+            "latitude": 40.2833,
+            "longitude": 116.3333,
+            "address": "北京市昌平区"
+        },
+        {
+            "name": "幽州峡谷",
+            "desc": "永定河畔徒步经典",
+            "latitude": 40.05,
+            "longitude": 115.7167,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "白河峡谷",
+            "desc": "京北第一漂的两岸山色",
+            "latitude": 40.5833,
+            "longitude": 116.6333,
+            "address": "北京市延庆区"
+        },
+        {
+            "name": "九眼楼长城",
+            "desc": "万里长城上唯一火楼",
+            "latitude": 40.5,
+            "longitude": 116.1667,
+            "address": "北京市延庆区"
+        },
+        {
+            "name": "小五台山",
+            "desc": "河北最高峰，户外圣地",
+            "latitude": 39.95,
+            "longitude": 114.8833,
+            "address": "河北省张家口市蔚县"
+        },
+        {
+            "name": "东灵山",
+            "desc": "高山草甸露营胜地",
+            "latitude": 39.9833,
+            "longitude": 115.5,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "慕田峪长城",
+            "desc": "植被覆盖最好的长城段",
+            "latitude": 40.4333,
+            "longitude": 116.5667,
+            "address": "北京市怀柔区"
+        },
+        {
+            "name": "翠华山",
+            "desc": "密云水库东侧赏秋",
+            "latitude": 40.5167,
+            "longitude": 116.95,
+            "address": "北京市密云区"
+        },
+        {
+            "name": "棋盘山",
+            "desc": "昌平踏青入门级路线",
+            "latitude": 40.2167,
+            "longitude": 116.1667,
+            "address": "北京市昌平区"
+        },
+        {
+            "name": "凤驼梁",
+            "desc": "涞源与北京交界高山",
+            "latitude": 39.85,
+            "longitude": 115.3,
+            "address": "河北省保定市涞源县"
+        },
+        {
+            "name": "大海陀",
+            "desc": "延庆高山草甸",
+            "latitude": 40.5667,
+            "longitude": 115.8,
+            "address": "北京市延庆区"
+        },
+        {
+            "name": "坡峰岭",
+            "desc": "满山红叶不输香山",
+            "latitude": 39.6667,
+            "longitude": 115.9833,
+            "address": "北京市房山区"
+        },
+        {
+            "name": "圣莲山",
+            "desc": "道教名山，悬崖栈道",
+            "latitude": 39.7833,
+            "longitude": 115.7833,
+            "address": "北京市房山区"
+        },
+        {
+            "name": "上方山",
+            "desc": "九洞十二峰的喀斯特地貌",
+            "latitude": 39.65,
+            "longitude": 115.95,
+            "address": "北京市房山区"
+        },
+        {
+            "name": "十渡仙栖洞",
+            "desc": "拒马河畔群山环抱",
+            "latitude": 39.6333,
+            "longitude": 115.7,
+            "address": "北京市房山区"
+        },
+        {
+            "name": "天门山",
+            "desc": "密云最美玻璃栈道",
+            "latitude": 40.5333,
+            "longitude": 117.0333,
+            "address": "北京市密云区"
+        },
+        {
+            "name": "古北口蟠龙山",
+            "desc": "抗战长城遗址",
+            "latitude": 40.6833,
+            "longitude": 117.1667,
+            "address": "北京市密云区"
+        },
+        {
+            "name": "北京结",
+            "desc": "内外长城交汇点",
+            "latitude": 40.5167,
+            "longitude": 116.5333,
+            "address": "北京市怀柔区"
+        },
+        {
+            "name": "大觉寺到鹫峰穿越",
+            "desc": "海淀经典半日徒步",
+            "latitude": 40.0417,
+            "longitude": 116.1083,
+            "address": "北京市海淀区"
+        },
+        {
+            "name": "八大处",
+            "desc": "三山八刹登高览城",
+            "latitude": 39.95,
+            "longitude": 116.1833,
+            "address": "北京市石景山区"
+        },
+        {
+            "name": "定都峰",
+            "desc": "俯瞰京城全景的最佳处",
+            "latitude": 39.9333,
+            "longitude": 116.0833,
+            "address": "北京市门头沟区"
+        },
+        {
+            "name": "将军关长城",
+            "desc": "平谷最野的长城段",
+            "latitude": 40.3833,
+            "longitude": 117.1167,
+            "address": "北京市平谷区"
+        },
+        {
+            "name": "京东大峡谷",
+            "desc": "五潭连珠的清幽谷",
+            "latitude": 40.35,
+            "longitude": 117.1333,
+            "address": "北京市平谷区"
+        },
+        {
+            "name": "盘山",
+            "desc": "乾隆三十二次登临之地",
+            "latitude": 40.0833,
+            "longitude": 117.25,
+            "address": "天津市蓟州区"
+        },
+        {
+            "name": "雾灵山北麓",
+            "desc": "秋日五彩林海",
+            "latitude": 40.6167,
+            "longitude": 117.5,
+            "address": "河北省承德市兴隆县"
+        },
+        {
+            "name": "玉渡山",
+            "desc": "延庆的小九寨沟",
+            "latitude": 40.5,
+            "longitude": 115.8833,
+            "address": "北京市延庆区"
+        }
+    ],
+    "count": 50
+}

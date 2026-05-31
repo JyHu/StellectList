@@ -1,0 +1,361 @@
+{
+    "id": "countries_50",
+    "name": "一生必去的50个国家",
+    "desc": "用脚步丈量世界",
+    "icon": "globe.asia.australia.fill",
+    "category": "travel",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "日本",
+            "desc": "传统与现代的完美融合，极致的匠人精神",
+            "latitude": 35.6762,
+            "longitude": 139.6503,
+            "address": "亚洲/东亚"
+        },
+        {
+            "name": "法国",
+            "desc": "浪漫之都，艺术与美食的天堂",
+            "latitude": 48.8566,
+            "longitude": 2.3522,
+            "address": "欧洲/西欧"
+        },
+        {
+            "name": "意大利",
+            "desc": "文艺复兴的摇篮，千年古迹遍布",
+            "latitude": 41.9028,
+            "longitude": 12.4964,
+            "address": "欧洲/南欧"
+        },
+        {
+            "name": "冰岛",
+            "desc": "冰与火之歌的现实版，极光下的仙境",
+            "latitude": 64.9631,
+            "longitude": -19.0208,
+            "address": "欧洲/北欧"
+        },
+        {
+            "name": "新西兰",
+            "desc": "中土世界的原型，纯净自然的极致",
+            "latitude": -40.9006,
+            "longitude": 174.886,
+            "address": "大洋洲"
+        },
+        {
+            "name": "埃及",
+            "desc": "金字塔下的千年文明，法老的不朽传说",
+            "latitude": 26.8206,
+            "longitude": 30.8025,
+            "address": "非洲/北非"
+        },
+        {
+            "name": "秘鲁",
+            "desc": "马丘比丘的云端遗迹，印加帝国的辉煌",
+            "latitude": -9.19,
+            "longitude": -75.0152,
+            "address": "南美洲"
+        },
+        {
+            "name": "希腊",
+            "desc": "爱琴海的蓝白童话，西方文明的起源",
+            "latitude": 39.0742,
+            "longitude": 21.8243,
+            "address": "欧洲/南欧"
+        },
+        {
+            "name": "澳大利亚",
+            "desc": "大堡礁与红色沙漠，独特的自然奇观",
+            "latitude": -25.2744,
+            "longitude": 133.7751,
+            "address": "大洋洲"
+        },
+        {
+            "name": "摩洛哥",
+            "desc": "撒哈拉的星空，蓝色小镇的迷幻",
+            "latitude": 31.7917,
+            "longitude": -7.0926,
+            "address": "非洲/北非"
+        },
+        {
+            "name": "挪威",
+            "desc": "峡湾深处的壮丽，午夜太阳的奇观",
+            "latitude": 60.472,
+            "longitude": 8.4689,
+            "address": "欧洲/北欧"
+        },
+        {
+            "name": "印度",
+            "desc": "泰姬陵的永恒之爱，混乱中的神圣",
+            "latitude": 20.5937,
+            "longitude": 78.9629,
+            "address": "亚洲/南亚"
+        },
+        {
+            "name": "巴西",
+            "desc": "狂欢节与亚马逊，热情奔放的生命力",
+            "latitude": -14.235,
+            "longitude": -51.9253,
+            "address": "南美洲"
+        },
+        {
+            "name": "土耳其",
+            "desc": "横跨欧亚的文明十字路口，热气球升空的梦幻",
+            "latitude": 38.9637,
+            "longitude": 35.2433,
+            "address": "亚洲/西亚"
+        },
+        {
+            "name": "瑞士",
+            "desc": "阿尔卑斯山的纯净天堂，精密与自然的统一",
+            "latitude": 46.8182,
+            "longitude": 8.2275,
+            "address": "欧洲/中欧"
+        },
+        {
+            "name": "肯尼亚",
+            "desc": "动物大迁徙的壮观，非洲草原的生命交响",
+            "latitude": -0.0236,
+            "longitude": 37.9062,
+            "address": "非洲/东非"
+        },
+        {
+            "name": "西班牙",
+            "desc": "弗拉门戈的热烈，高迪的奇幻建筑",
+            "latitude": 40.4637,
+            "longitude": -3.7492,
+            "address": "欧洲/南欧"
+        },
+        {
+            "name": "泰国",
+            "desc": "微笑之国，寺庙与海滩的双重魅力",
+            "latitude": 15.87,
+            "longitude": 100.9925,
+            "address": "亚洲/东南亚"
+        },
+        {
+            "name": "美国",
+            "desc": "从大峡谷到自由女神，多元文化的大熔炉",
+            "latitude": 37.0902,
+            "longitude": -95.7129,
+            "address": "北美洲"
+        },
+        {
+            "name": "坦桑尼亚",
+            "desc": "乞力马扎罗的雪，塞伦盖蒂的野性呼唤",
+            "latitude": -6.369,
+            "longitude": 34.8888,
+            "address": "非洲/东非"
+        },
+        {
+            "name": "葡萄牙",
+            "desc": "大航海时代的起点，忧郁的法多音乐",
+            "latitude": 39.3999,
+            "longitude": -8.2245,
+            "address": "欧洲/南欧"
+        },
+        {
+            "name": "尼泊尔",
+            "desc": "喜马拉雅脚下的信仰之地，众神的居所",
+            "latitude": 28.3949,
+            "longitude": 84.124,
+            "address": "亚洲/南亚"
+        },
+        {
+            "name": "阿根廷",
+            "desc": "探戈的故乡，巴塔哥尼亚的苍茫",
+            "latitude": -38.4161,
+            "longitude": -63.6167,
+            "address": "南美洲"
+        },
+        {
+            "name": "英国",
+            "desc": "从莎士比亚到披头士，绅士风度与叛逆精神",
+            "latitude": 55.3781,
+            "longitude": -3.436,
+            "address": "欧洲/西欧"
+        },
+        {
+            "name": "越南",
+            "desc": "下龙湾的翡翠碧波，河粉飘香的街巷",
+            "latitude": 14.0583,
+            "longitude": 108.2772,
+            "address": "亚洲/东南亚"
+        },
+        {
+            "name": "德国",
+            "desc": "新天鹅堡的童话，啤酒与哲学的国度",
+            "latitude": 51.1657,
+            "longitude": 10.4515,
+            "address": "欧洲/中欧"
+        },
+        {
+            "name": "哥伦比亚",
+            "desc": "百年孤独的故乡，色彩斑斓的魔幻国度",
+            "latitude": 4.5709,
+            "longitude": -74.2973,
+            "address": "南美洲"
+        },
+        {
+            "name": "南非",
+            "desc": "好望角的波澜壮阔，彩虹之国的多彩",
+            "latitude": -30.5595,
+            "longitude": 22.9375,
+            "address": "非洲/南非"
+        },
+        {
+            "name": "柬埔寨",
+            "desc": "吴哥窟的微笑，丛林中的千年神殿",
+            "latitude": 12.5657,
+            "longitude": 104.991,
+            "address": "亚洲/东南亚"
+        },
+        {
+            "name": "智利",
+            "desc": "从沙漠到冰川，世界最狭长国度的奇观",
+            "latitude": -35.6751,
+            "longitude": -71.543,
+            "address": "南美洲"
+        },
+        {
+            "name": "荷兰",
+            "desc": "风车与郁金香，自由开放的低地之国",
+            "latitude": 52.1326,
+            "longitude": 5.2913,
+            "address": "欧洲/西欧"
+        },
+        {
+            "name": "约旦",
+            "desc": "佩特拉的玫瑰红城，死海的漂浮奇迹",
+            "latitude": 30.5852,
+            "longitude": 36.2384,
+            "address": "亚洲/西亚"
+        },
+        {
+            "name": "墨西哥",
+            "desc": "玛雅文明的遗迹，亡灵节的生死哲学",
+            "latitude": 23.6345,
+            "longitude": -102.5528,
+            "address": "北美洲"
+        },
+        {
+            "name": "克罗地亚",
+            "desc": "亚得里亚海的明珠，权力的游戏取景地",
+            "latitude": 45.1,
+            "longitude": 15.2,
+            "address": "欧洲/南欧"
+        },
+        {
+            "name": "以色列",
+            "desc": "三教圣地的交汇，古老与创新的碰撞",
+            "latitude": 31.0461,
+            "longitude": 34.8516,
+            "address": "亚洲/西亚"
+        },
+        {
+            "name": "古巴",
+            "desc": "时光凝固的哈瓦那，老爷车与雪茄的怀旧",
+            "latitude": 21.5218,
+            "longitude": -77.7812,
+            "address": "北美洲/加勒比"
+        },
+        {
+            "name": "韩国",
+            "desc": "从古宫到江南，传统与潮流的碰撞",
+            "latitude": 35.9078,
+            "longitude": 127.7669,
+            "address": "亚洲/东亚"
+        },
+        {
+            "name": "捷克",
+            "desc": "布拉格的波西米亚风情，百塔之城的浪漫",
+            "latitude": 49.8175,
+            "longitude": 15.473,
+            "address": "欧洲/中欧"
+        },
+        {
+            "name": "马达加斯加",
+            "desc": "独一无二的生物王国，猴面包树的奇幻",
+            "latitude": -18.7669,
+            "longitude": 46.8691,
+            "address": "非洲/东非"
+        },
+        {
+            "name": "斯里兰卡",
+            "desc": "印度洋上的明珠，茶园与古迹交织",
+            "latitude": 7.8731,
+            "longitude": 80.7718,
+            "address": "亚洲/南亚"
+        },
+        {
+            "name": "奥地利",
+            "desc": "音乐之都维也纳，阿尔卑斯的诗意",
+            "latitude": 47.5162,
+            "longitude": 14.5501,
+            "address": "欧洲/中欧"
+        },
+        {
+            "name": "缅甸",
+            "desc": "万千佛塔的蒲甘，虔诚而神秘的金色国度",
+            "latitude": 21.9162,
+            "longitude": 95.956,
+            "address": "亚洲/东南亚"
+        },
+        {
+            "name": "哥斯达黎加",
+            "desc": "中美洲的生态天堂，纯净生活的典范",
+            "latitude": 9.7489,
+            "longitude": -83.7534,
+            "address": "北美洲/中美洲"
+        },
+        {
+            "name": "芬兰",
+            "desc": "圣诞老人的故乡，极光与桑拿的国度",
+            "latitude": 61.9241,
+            "longitude": 25.7482,
+            "address": "欧洲/北欧"
+        },
+        {
+            "name": "蒙古",
+            "desc": "无边的草原与苍穹，成吉思汗的后裔",
+            "latitude": 46.8625,
+            "longitude": 103.8467,
+            "address": "亚洲/中亚"
+        },
+        {
+            "name": "不丹",
+            "desc": "喜马拉雅山中的幸福王国，最后的香格里拉",
+            "latitude": 27.5142,
+            "longitude": 90.4336,
+            "address": "亚洲/南亚"
+        },
+        {
+            "name": "伊朗",
+            "desc": "波斯文明的辉煌遗产，被误解的好客之邦",
+            "latitude": 32.4279,
+            "longitude": 53.688,
+            "address": "亚洲/西亚"
+        },
+        {
+            "name": "纳米比亚",
+            "desc": "红色沙丘与大西洋交汇，超现实的荒野美学",
+            "latitude": -22.9576,
+            "longitude": 18.4904,
+            "address": "非洲/南部非洲"
+        },
+        {
+            "name": "加拿大",
+            "desc": "落基山脉的壮阔，枫叶国的包容与自然",
+            "latitude": 56.1304,
+            "longitude": -106.3468,
+            "address": "北美洲"
+        },
+        {
+            "name": "马尔代夫",
+            "desc": "散落印度洋的珍珠，正在消失的天堂",
+            "latitude": 3.2028,
+            "longitude": 73.2207,
+            "address": "亚洲/南亚"
+        }
+    ],
+    "count": 50
+}

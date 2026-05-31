@@ -1,0 +1,711 @@
+{
+    "id": "mountains_china",
+    "name": "中国最值得攀登的100座山",
+    "desc": "从五岳到名山，用脚步丈量祖国的壮丽山河",
+    "icon": "mountain.2.fill",
+    "category": "hiking",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "泰山",
+            "desc": "五岳之首，天下第一山",
+            "latitude": 36.2544,
+            "longitude": 117.1009,
+            "address": "山东省泰安市"
+        },
+        {
+            "name": "华山",
+            "desc": "奇险天下第一山",
+            "latitude": 34.4748,
+            "longitude": 110.089,
+            "address": "陕西省渭南市华阴市"
+        },
+        {
+            "name": "衡山",
+            "desc": "南岳独秀",
+            "latitude": 27.2543,
+            "longitude": 112.7081,
+            "address": "湖南省衡阳市"
+        },
+        {
+            "name": "恒山",
+            "desc": "北岳恒山，人天北柱",
+            "latitude": 39.6756,
+            "longitude": 113.7313,
+            "address": "山西省大同市浑源县"
+        },
+        {
+            "name": "嵩山",
+            "desc": "中岳嵩山，天地之中",
+            "latitude": 34.4844,
+            "longitude": 113.0388,
+            "address": "河南省登封市"
+        },
+        {
+            "name": "黄山",
+            "desc": "五岳归来不看山，黄山归来不看岳",
+            "latitude": 30.1375,
+            "longitude": 118.1694,
+            "address": "安徽省黄山市"
+        },
+        {
+            "name": "庐山",
+            "desc": "飞流直下三千尺",
+            "latitude": 29.5628,
+            "longitude": 115.9719,
+            "address": "江西省九江市"
+        },
+        {
+            "name": "峨眉山",
+            "desc": "峨眉天下秀",
+            "latitude": 29.52,
+            "longitude": 103.3325,
+            "address": "四川省乐山市"
+        },
+        {
+            "name": "武当山",
+            "desc": "道教圣地，亘古无双胜境",
+            "latitude": 32.4003,
+            "longitude": 111.0042,
+            "address": "湖北省十堰市"
+        },
+        {
+            "name": "长白山",
+            "desc": "东北第一山，天池圣境",
+            "latitude": 42.0353,
+            "longitude": 128.0571,
+            "address": "吉林省延边州"
+        },
+        {
+            "name": "武夷山",
+            "desc": "碧水丹山，奇秀甲东南",
+            "latitude": 27.7548,
+            "longitude": 117.9696,
+            "address": "福建省南平市"
+        },
+        {
+            "name": "张家界天门山",
+            "desc": "天门洞开，鬼谷栈道",
+            "latitude": 29.0486,
+            "longitude": 110.4793,
+            "address": "湖南省张家界市"
+        },
+        {
+            "name": "玉龙雪山",
+            "desc": "纳西族神山，冰川之美",
+            "latitude": 27.1167,
+            "longitude": 100.1833,
+            "address": "云南省丽江市"
+        },
+        {
+            "name": "梅里雪山",
+            "desc": "藏区八大神山之首",
+            "latitude": 28.3833,
+            "longitude": 98.7167,
+            "address": "云南省迪庆州德钦县"
+        },
+        {
+            "name": "珠穆朗玛峰大本营",
+            "desc": "世界之巅的起点",
+            "latitude": 28.1428,
+            "longitude": 86.8528,
+            "address": "西藏自治区日喀则市"
+        },
+        {
+            "name": "冈仁波齐",
+            "desc": "世界公认的神山",
+            "latitude": 31.0667,
+            "longitude": 81.3125,
+            "address": "西藏自治区阿里地区"
+        },
+        {
+            "name": "贡嘎山",
+            "desc": "蜀山之王",
+            "latitude": 29.5958,
+            "longitude": 101.8789,
+            "address": "四川省甘孜州"
+        },
+        {
+            "name": "四姑娘山",
+            "desc": "东方阿尔卑斯",
+            "latitude": 31.09,
+            "longitude": 102.8967,
+            "address": "四川省阿坝州小金县"
+        },
+        {
+            "name": "稻城亚丁三神山",
+            "desc": "最后的香格里拉",
+            "latitude": 28.4833,
+            "longitude": 100.3,
+            "address": "四川省甘孜州稻城县"
+        },
+        {
+            "name": "雨崩",
+            "desc": "徒步天堂，梅里雪山脚下",
+            "latitude": 28.4333,
+            "longitude": 98.7667,
+            "address": "云南省迪庆州德钦县"
+        },
+        {
+            "name": "太白山",
+            "desc": "秦岭主峰，一日历四季",
+            "latitude": 33.9567,
+            "longitude": 107.7642,
+            "address": "陕西省宝鸡市"
+        },
+        {
+            "name": "武功山",
+            "desc": "云中草原，高山草甸",
+            "latitude": 27.4667,
+            "longitude": 114.1333,
+            "address": "江西省萍乡市"
+        },
+        {
+            "name": "雁荡山",
+            "desc": "东南第一山",
+            "latitude": 28.3767,
+            "longitude": 121.0681,
+            "address": "浙江省温州市乐清市"
+        },
+        {
+            "name": "三清山",
+            "desc": "西太平洋边缘最美花岗岩",
+            "latitude": 28.9153,
+            "longitude": 118.0636,
+            "address": "江西省上饶市"
+        },
+        {
+            "name": "龙虎山",
+            "desc": "道教祖庭，丹霞地貌",
+            "latitude": 28.0822,
+            "longitude": 116.9633,
+            "address": "江西省鹰潭市"
+        },
+        {
+            "name": "崂山",
+            "desc": "海上第一仙山",
+            "latitude": 36.1592,
+            "longitude": 120.6267,
+            "address": "山东省青岛市"
+        },
+        {
+            "name": "普陀山",
+            "desc": "海天佛国",
+            "latitude": 30.0081,
+            "longitude": 122.3847,
+            "address": "浙江省舟山市"
+        },
+        {
+            "name": "九华山",
+            "desc": "地藏菩萨道场",
+            "latitude": 30.4833,
+            "longitude": 117.8,
+            "address": "安徽省池州市"
+        },
+        {
+            "name": "五台山",
+            "desc": "文殊菩萨道场",
+            "latitude": 39.08,
+            "longitude": 113.5833,
+            "address": "山西省忻州市"
+        },
+        {
+            "name": "天山",
+            "desc": "博格达峰，新疆明珠",
+            "latitude": 43.8,
+            "longitude": 88.3167,
+            "address": "新疆维吾尔自治区"
+        },
+        {
+            "name": "哈巴雪山",
+            "desc": "入门级雪山攀登",
+            "latitude": 27.3667,
+            "longitude": 100.1167,
+            "address": "云南省迪庆州香格里拉市"
+        },
+        {
+            "name": "慕士塔格峰",
+            "desc": "冰山之父",
+            "latitude": 38.2833,
+            "longitude": 75.1167,
+            "address": "新疆维吾尔自治区克孜勒苏州"
+        },
+        {
+            "name": "乔戈里峰",
+            "desc": "世界第二高峰",
+            "latitude": 35.88,
+            "longitude": 76.5133,
+            "address": "新疆维吾尔自治区喀什地区"
+        },
+        {
+            "name": "南迦巴瓦峰",
+            "desc": "中国最美山峰",
+            "latitude": 29.5963,
+            "longitude": 95.056,
+            "address": "西藏自治区林芝市"
+        },
+        {
+            "name": "希夏邦马峰",
+            "desc": "唯一全境在中国的八千米山峰",
+            "latitude": 28.35,
+            "longitude": 85.7833,
+            "address": "西藏自治区日喀则市"
+        },
+        {
+            "name": "卓奥友峰",
+            "desc": "八千米入门级山峰",
+            "latitude": 28.0983,
+            "longitude": 86.6617,
+            "address": "西藏自治区日喀则市"
+        },
+        {
+            "name": "阿尼玛卿山",
+            "desc": "黄河源头第一神山",
+            "latitude": 34.8,
+            "longitude": 99.4333,
+            "address": "青海省果洛州玛沁县"
+        },
+        {
+            "name": "玉珠峰",
+            "desc": "登山入门训练基地",
+            "latitude": 35.6333,
+            "longitude": 94.2167,
+            "address": "青海省海西州格尔木市"
+        },
+        {
+            "name": "雀儿山",
+            "desc": "川藏第一险",
+            "latitude": 31.8167,
+            "longitude": 99.1,
+            "address": "四川省甘孜州德格县"
+        },
+        {
+            "name": "格聂神山",
+            "desc": "藏地秘境，世外桃源",
+            "latitude": 29.8333,
+            "longitude": 99.6,
+            "address": "四川省甘孜州理塘县"
+        },
+        {
+            "name": "牛背山",
+            "desc": "中国最大观景台",
+            "latitude": 29.65,
+            "longitude": 102.35,
+            "address": "四川省雅安市荥经县"
+        },
+        {
+            "name": "鳌太线",
+            "desc": "秦岭最险穿越路线",
+            "latitude": 33.9,
+            "longitude": 107.5,
+            "address": "陕西省宝鸡市太白县"
+        },
+        {
+            "name": "莲花山",
+            "desc": "广东第一高峰",
+            "latitude": 23.9333,
+            "longitude": 115.85,
+            "address": "广东省梅州市丰顺县"
+        },
+        {
+            "name": "韭菜岭",
+            "desc": "华南最险峻山峰",
+            "latitude": 25.8333,
+            "longitude": 111.35,
+            "address": "湖南省永州市道县"
+        },
+        {
+            "name": "船底顶",
+            "desc": "广东户外毕业路线",
+            "latitude": 24.3833,
+            "longitude": 114.1833,
+            "address": "广东省韶关市曲江区"
+        },
+        {
+            "name": "大瑶山",
+            "desc": "岭南最高峰群",
+            "latitude": 24.1833,
+            "longitude": 110.2167,
+            "address": "广西壮族自治区来宾市金秀县"
+        },
+        {
+            "name": "猫儿山",
+            "desc": "华南之巅",
+            "latitude": 25.9,
+            "longitude": 110.4333,
+            "address": "广西壮族自治区桂林市兴安县"
+        },
+        {
+            "name": "梵净山",
+            "desc": "贵州第一山，红云金顶",
+            "latitude": 27.9,
+            "longitude": 108.6833,
+            "address": "贵州省铜仁市"
+        },
+        {
+            "name": "乌蒙山韭菜坪",
+            "desc": "贵州最高峰",
+            "latitude": 26.8833,
+            "longitude": 104.7,
+            "address": "贵州省毕节市赫章县"
+        },
+        {
+            "name": "苍山",
+            "desc": "大理风花雪月之首",
+            "latitude": 25.6667,
+            "longitude": 100.1,
+            "address": "云南省大理州大理市"
+        },
+        {
+            "name": "哀牢山",
+            "desc": "云南中部屋脊",
+            "latitude": 24.0167,
+            "longitude": 101.4833,
+            "address": "云南省玉溪市新平县"
+        },
+        {
+            "name": "鸡足山",
+            "desc": "迦叶尊者道场",
+            "latitude": 25.9667,
+            "longitude": 100.3667,
+            "address": "云南省大理州宾川县"
+        },
+        {
+            "name": "轿子雪山",
+            "desc": "滇中第一山",
+            "latitude": 26.0833,
+            "longitude": 102.85,
+            "address": "云南省昆明市禄劝县"
+        },
+        {
+            "name": "罗浮山",
+            "desc": "岭南第一山",
+            "latitude": 23.2833,
+            "longitude": 114.05,
+            "address": "广东省惠州市博罗县"
+        },
+        {
+            "name": "丹霞山",
+            "desc": "世界丹霞地貌命名地",
+            "latitude": 25.0167,
+            "longitude": 113.7333,
+            "address": "广东省韶关市仁化县"
+        },
+        {
+            "name": "鼎湖山",
+            "desc": "岭南四大名山之一",
+            "latitude": 23.1667,
+            "longitude": 112.5333,
+            "address": "广东省肇庆市"
+        },
+        {
+            "name": "神农架",
+            "desc": "华中屋脊，野人传说",
+            "latitude": 31.75,
+            "longitude": 110.6667,
+            "address": "湖北省神农架林区"
+        },
+        {
+            "name": "大别山天堂寨",
+            "desc": "吴楚东南第一关",
+            "latitude": 31.1833,
+            "longitude": 115.7833,
+            "address": "安徽省六安市金寨县"
+        },
+        {
+            "name": "天柱山",
+            "desc": "皖中第一山",
+            "latitude": 30.7333,
+            "longitude": 116.4333,
+            "address": "安徽省安庆市潜山市"
+        },
+        {
+            "name": "齐云山",
+            "desc": "道教四大名山之一",
+            "latitude": 29.8,
+            "longitude": 117.7667,
+            "address": "安徽省黄山市休宁县"
+        },
+        {
+            "name": "莫干山",
+            "desc": "清凉世界",
+            "latitude": 30.6333,
+            "longitude": 119.8667,
+            "address": "浙江省湖州市德清县"
+        },
+        {
+            "name": "天目山",
+            "desc": "大树华盖闻九州",
+            "latitude": 30.35,
+            "longitude": 119.4333,
+            "address": "浙江省杭州市临安区"
+        },
+        {
+            "name": "括苍山",
+            "desc": "浙东南最高峰",
+            "latitude": 28.7667,
+            "longitude": 120.7333,
+            "address": "浙江省台州市临海市"
+        },
+        {
+            "name": "四明山",
+            "desc": "浙东名山",
+            "latitude": 29.75,
+            "longitude": 121.0833,
+            "address": "浙江省宁波市余姚市"
+        },
+        {
+            "name": "太姥山",
+            "desc": "海上仙都",
+            "latitude": 27.1,
+            "longitude": 120.1833,
+            "address": "福建省宁德市福鼎市"
+        },
+        {
+            "name": "冠豸山",
+            "desc": "客家神山",
+            "latitude": 25.7167,
+            "longitude": 116.9667,
+            "address": "福建省龙岩市连城县"
+        },
+        {
+            "name": "清源山",
+            "desc": "闽中屏障",
+            "latitude": 24.9667,
+            "longitude": 118.6,
+            "address": "福建省泉州市"
+        },
+        {
+            "name": "井冈山",
+            "desc": "天下第一山（红色圣地）",
+            "latitude": 26.5833,
+            "longitude": 114.1667,
+            "address": "江西省吉安市井冈山市"
+        },
+        {
+            "name": "明月山",
+            "desc": "嫦娥故乡，温泉之都",
+            "latitude": 27.5833,
+            "longitude": 114.5667,
+            "address": "江西省宜春市"
+        },
+        {
+            "name": "老君山",
+            "desc": "远赴人间惊鸿宴",
+            "latitude": 33.7167,
+            "longitude": 111.6333,
+            "address": "河南省洛阳市栾川县"
+        },
+        {
+            "name": "云台山",
+            "desc": "峡谷奇观，红石峡",
+            "latitude": 35.4333,
+            "longitude": 113.3833,
+            "address": "河南省焦作市修武县"
+        },
+        {
+            "name": "王屋山",
+            "desc": "愚公移山故事发源地",
+            "latitude": 35.2,
+            "longitude": 112.2333,
+            "address": "河南省济源市"
+        },
+        {
+            "name": "鸡公山",
+            "desc": "避暑胜地",
+            "latitude": 31.8,
+            "longitude": 114.05,
+            "address": "河南省信阳市"
+        },
+        {
+            "name": "五莲山",
+            "desc": "奇石幽谷",
+            "latitude": 35.6833,
+            "longitude": 119.15,
+            "address": "山东省日照市五莲县"
+        },
+        {
+            "name": "蒙山",
+            "desc": "山东第二高峰",
+            "latitude": 35.5667,
+            "longitude": 117.9333,
+            "address": "山东省临沂市蒙阴县"
+        },
+        {
+            "name": "恒山悬空寺",
+            "desc": "千年悬挂古寺",
+            "latitude": 39.6544,
+            "longitude": 113.7131,
+            "address": "山西省大同市浑源县"
+        },
+        {
+            "name": "太行山王莽岭",
+            "desc": "太行绝壁，挂壁公路",
+            "latitude": 35.7167,
+            "longitude": 113.55,
+            "address": "山西省晋城市陵川县"
+        },
+        {
+            "name": "芦芽山",
+            "desc": "万年冰洞奇观",
+            "latitude": 38.75,
+            "longitude": 111.9333,
+            "address": "山西省忻州市宁武县"
+        },
+        {
+            "name": "贺兰山",
+            "desc": "驾长车踏破贺兰山缺",
+            "latitude": 38.8333,
+            "longitude": 105.8667,
+            "address": "宁夏回族自治区银川市"
+        },
+        {
+            "name": "祁连山",
+            "desc": "天境祁连，冰川草原",
+            "latitude": 38.2,
+            "longitude": 99.8667,
+            "address": "青海省海北州祁连县"
+        },
+        {
+            "name": "日月山",
+            "desc": "唐蕃古道分界线",
+            "latitude": 36.7333,
+            "longitude": 101.0833,
+            "address": "青海省西宁市湟源县"
+        },
+        {
+            "name": "年保玉则",
+            "desc": "天神后花园",
+            "latitude": 33.2333,
+            "longitude": 101.0,
+            "address": "青海省果洛州久治县"
+        },
+        {
+            "name": "昆仑山",
+            "desc": "万山之祖",
+            "latitude": 35.5667,
+            "longitude": 80.0,
+            "address": "新疆维吾尔自治区和田地区"
+        },
+        {
+            "name": "天山库尔德宁",
+            "desc": "雪岭云杉故乡",
+            "latitude": 43.4,
+            "longitude": 82.5833,
+            "address": "新疆维吾尔自治区伊犁州巩留县"
+        },
+        {
+            "name": "喀纳斯友谊峰",
+            "desc": "阿尔泰山最高峰",
+            "latitude": 49.1667,
+            "longitude": 87.8333,
+            "address": "新疆维吾尔自治区阿勒泰地区"
+        },
+        {
+            "name": "火焰山",
+            "desc": "西游记中火焰山",
+            "latitude": 42.95,
+            "longitude": 89.6,
+            "address": "新疆维吾尔自治区吐鲁番市"
+        },
+        {
+            "name": "大兴安岭",
+            "desc": "北国林海雪原",
+            "latitude": 50.4167,
+            "longitude": 124.1333,
+            "address": "黑龙江省大兴安岭地区"
+        },
+        {
+            "name": "凤凰山",
+            "desc": "龙江第一大山",
+            "latitude": 44.6667,
+            "longitude": 128.85,
+            "address": "黑龙江省五常市"
+        },
+        {
+            "name": "长白山北坡",
+            "desc": "天池最佳观赏点",
+            "latitude": 42.05,
+            "longitude": 128.0667,
+            "address": "吉林省延边州安图县"
+        },
+        {
+            "name": "医巫闾山",
+            "desc": "东北三大名山之一",
+            "latitude": 41.6333,
+            "longitude": 121.75,
+            "address": "辽宁省锦州市北镇市"
+        },
+        {
+            "name": "千山",
+            "desc": "东北明珠",
+            "latitude": 41.0,
+            "longitude": 122.9667,
+            "address": "辽宁省鞍山市"
+        },
+        {
+            "name": "阿里大北线",
+            "desc": "荒原与雪山的交响",
+            "latitude": 32.5,
+            "longitude": 80.1,
+            "address": "西藏自治区阿里地区"
+        },
+        {
+            "name": "念青唐古拉山",
+            "desc": "藏北高原的守护神",
+            "latitude": 30.4,
+            "longitude": 90.5667,
+            "address": "西藏自治区拉萨市当雄县"
+        },
+        {
+            "name": "唐古拉山",
+            "desc": "长江源头第一山",
+            "latitude": 33.0667,
+            "longitude": 91.7333,
+            "address": "青海省玉树州与西藏交界"
+        },
+        {
+            "name": "巴颜喀拉山",
+            "desc": "黄河与长江分水岭",
+            "latitude": 34.6,
+            "longitude": 96.5,
+            "address": "青海省果洛州玛多县"
+        },
+        {
+            "name": "乔尔玛",
+            "desc": "独库公路最美山口",
+            "latitude": 43.6,
+            "longitude": 84.3833,
+            "address": "新疆维吾尔自治区伊犁州尼勒克县"
+        },
+        {
+            "name": "大五台朝台",
+            "desc": "五台连穿朝圣路",
+            "latitude": 39.0833,
+            "longitude": 113.55,
+            "address": "山西省忻州市五台县"
+        },
+        {
+            "name": "狼塔C线",
+            "desc": "新疆最美徒步线",
+            "latitude": 43.25,
+            "longitude": 85.5833,
+            "address": "新疆维吾尔自治区昌吉州呼图壁县"
+        },
+        {
+            "name": "洛克线",
+            "desc": "探险家洛克的足迹",
+            "latitude": 28.35,
+            "longitude": 100.4333,
+            "address": "四川省凉山州木里县至稻城县"
+        },
+        {
+            "name": "那玛峰",
+            "desc": "贡嘎卫峰，技术型攀登",
+            "latitude": 29.5667,
+            "longitude": 101.8333,
+            "address": "四川省甘孜州康定市"
+        }
+    ],
+    "count": 100
+}

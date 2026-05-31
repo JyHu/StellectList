@@ -1,0 +1,25 @@
+{
+    "id": "movie",
+    "name": "电影",
+    "icon": "film.fill",
+    "desc": "影史经典不可错过",
+    "count": 2,
+    "items": [
+        {
+            "id": "movies_100",
+            "name": "一生必看的100部电影",
+            "desc": "从黑白默片到现代佳作，影史经典不可错过",
+            "icon": "film.fill",
+            "date": "2026-05-31",
+            "count": 100
+        },
+        {
+            "id": "chinese_movies_50",
+            "name": "豆瓣评分最高的50部华语电影",
+            "desc": "华语电影的巅峰之作",
+            "icon": "film.fill",
+            "date": "2026-05-31",
+            "count": 50
+        }
+    ]
+}

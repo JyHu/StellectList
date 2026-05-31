@@ -1,0 +1,361 @@
+{
+    "id": "romantic_cities_50",
+    "name": "全球最浪漫的50座城市",
+    "desc": "和爱的人一起去",
+    "icon": "heart.fill",
+    "category": "city",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "巴黎",
+            "desc": "永恒的浪漫之都，塞纳河畔的每一步都是情诗",
+            "latitude": 48.8566,
+            "longitude": 2.3522,
+            "address": "Paris, France"
+        },
+        {
+            "name": "威尼斯",
+            "desc": "水城贡多拉上的深情一吻，时光在此停驻",
+            "latitude": 45.4408,
+            "longitude": 12.3155,
+            "address": "Venice, Italy"
+        },
+        {
+            "name": "佛罗伦萨",
+            "desc": "文艺复兴的摇篮，托斯卡纳阳光下的永恒爱意",
+            "latitude": 43.7696,
+            "longitude": 11.2558,
+            "address": "Florence, Italy"
+        },
+        {
+            "name": "布拉格",
+            "desc": "千塔之城的童话，查理大桥上的誓言",
+            "latitude": 50.0755,
+            "longitude": 14.4378,
+            "address": "Prague, Czech Republic"
+        },
+        {
+            "name": "维也纳",
+            "desc": "华尔兹旋转中的帝国优雅，音乐与爱的交响",
+            "latitude": 48.2082,
+            "longitude": 16.3738,
+            "address": "Vienna, Austria"
+        },
+        {
+            "name": "圣托里尼",
+            "desc": "爱琴海上的蓝白童话，日落时分的无限浪漫",
+            "latitude": 36.3932,
+            "longitude": 25.4615,
+            "address": "Santorini, Greece"
+        },
+        {
+            "name": "京都",
+            "desc": "千年古都的含蓄之美，樱花与红叶间的温柔",
+            "latitude": 35.0116,
+            "longitude": 135.7681,
+            "address": "Kyoto, Japan"
+        },
+        {
+            "name": "布鲁日",
+            "desc": "比利时的中世纪水城，静谧运河映照爱情",
+            "latitude": 51.2093,
+            "longitude": 3.2247,
+            "address": "Bruges, Belgium"
+        },
+        {
+            "name": "巴塞罗那",
+            "desc": "高迪的奇幻世界，地中海热情与艺术的碰撞",
+            "latitude": 41.3874,
+            "longitude": 2.1686,
+            "address": "Barcelona, Spain"
+        },
+        {
+            "name": "里斯本",
+            "desc": "七丘之城的怀旧电车，法多音乐中的深情",
+            "latitude": 38.7223,
+            "longitude": -9.1393,
+            "address": "Lisbon, Portugal"
+        },
+        {
+            "name": "阿马尔菲",
+            "desc": "意大利海岸线上的宝石，悬崖与碧海间的浪漫",
+            "latitude": 40.634,
+            "longitude": 14.6027,
+            "address": "Amalfi, Italy"
+        },
+        {
+            "name": "布达佩斯",
+            "desc": "多瑙河明珠，温泉与夜景中的双城之恋",
+            "latitude": 47.4979,
+            "longitude": 19.0402,
+            "address": "Budapest, Hungary"
+        },
+        {
+            "name": "爱丁堡",
+            "desc": "苏格兰高地的神秘与优雅，古堡下的低语",
+            "latitude": 55.9533,
+            "longitude": -3.1883,
+            "address": "Edinburgh, Scotland, UK"
+        },
+        {
+            "name": "萨尔茨堡",
+            "desc": "莫扎特的故乡，阿尔卑斯山脚下的音乐之城",
+            "latitude": 47.8095,
+            "longitude": 13.055,
+            "address": "Salzburg, Austria"
+        },
+        {
+            "name": "杜布罗夫尼克",
+            "desc": "亚得里亚海的明珠，古城墙内的地中海之恋",
+            "latitude": 42.6507,
+            "longitude": 18.0944,
+            "address": "Dubrovnik, Croatia"
+        },
+        {
+            "name": "苏州",
+            "desc": "东方威尼斯，园林深处的江南情思",
+            "latitude": 31.299,
+            "longitude": 120.5853,
+            "address": "中国江苏省苏州市"
+        },
+        {
+            "name": "塞维利亚",
+            "desc": "弗拉门戈的激情，橘花香中的安达卢西亚之恋",
+            "latitude": 37.3891,
+            "longitude": -5.9845,
+            "address": "Seville, Spain"
+        },
+        {
+            "name": "维罗纳",
+            "desc": "罗密欧与朱丽叶的故乡，爱情永不消逝",
+            "latitude": 45.4384,
+            "longitude": 10.9916,
+            "address": "Verona, Italy"
+        },
+        {
+            "name": "卢塞恩",
+            "desc": "瑞士湖光山色间的宁静，卡佩尔桥上的花与爱",
+            "latitude": 47.0502,
+            "longitude": 8.3093,
+            "address": "Lucerne, Switzerland"
+        },
+        {
+            "name": "查尔斯顿",
+            "desc": "美国南方的优雅，彩虹排屋与橡树大道的诗意",
+            "latitude": 32.7765,
+            "longitude": -79.9311,
+            "address": "Charleston, SC, USA"
+        },
+        {
+            "name": "大理",
+            "desc": "苍山洱海间的风花雪月，自由与爱的乌托邦",
+            "latitude": 25.6065,
+            "longitude": 100.2679,
+            "address": "中国云南省大理白族自治州大理市"
+        },
+        {
+            "name": "阿姆斯特丹",
+            "desc": "运河之城的自由浪漫，郁金香与单车的画卷",
+            "latitude": 52.3676,
+            "longitude": 4.9041,
+            "address": "Amsterdam, Netherlands"
+        },
+        {
+            "name": "卡帕多奇亚",
+            "desc": "热气球升空时的心跳，奇岩地貌间的奇幻之旅",
+            "latitude": 38.6431,
+            "longitude": 34.8289,
+            "address": "Cappadocia, Turkey"
+        },
+        {
+            "name": "斯德哥尔摩",
+            "desc": "北欧水上之都，十四座岛屿串起的优雅",
+            "latitude": 59.3293,
+            "longitude": 18.0686,
+            "address": "Stockholm, Sweden"
+        },
+        {
+            "name": "哈瓦那",
+            "desc": "古董车与老城的复古浪漫，加勒比的热烈",
+            "latitude": 23.1136,
+            "longitude": -82.3666,
+            "address": "Havana, Cuba"
+        },
+        {
+            "name": "马拉喀什",
+            "desc": "摩洛哥红城的异域风情，千夜之梦般的迷醉",
+            "latitude": 31.6295,
+            "longitude": -7.9811,
+            "address": "Marrakech, Morocco"
+        },
+        {
+            "name": "尼斯",
+            "desc": "蔚蓝海岸的耀眼明珠，地中海蓝与棕榈树的邀约",
+            "latitude": 43.7102,
+            "longitude": 7.262,
+            "address": "Nice, France"
+        },
+        {
+            "name": "罗马",
+            "desc": "永恒之城的每一块石板都记载着爱的故事",
+            "latitude": 41.9028,
+            "longitude": 12.4964,
+            "address": "Rome, Italy"
+        },
+        {
+            "name": "清迈",
+            "desc": "泰北玫瑰之城，寺庙与山林间的宁静相伴",
+            "latitude": 18.7883,
+            "longitude": 98.9853,
+            "address": "Chiang Mai, Thailand"
+        },
+        {
+            "name": "波尔图",
+            "desc": "杜罗河畔的波特酒之城，瓷砖与夕阳的浪漫",
+            "latitude": 41.1579,
+            "longitude": -8.6291,
+            "address": "Porto, Portugal"
+        },
+        {
+            "name": "纳帕谷",
+            "desc": "加州葡萄酒乡，阳光与醉意中的甜蜜时光",
+            "latitude": 38.5025,
+            "longitude": -122.2654,
+            "address": "Napa Valley, CA, USA"
+        },
+        {
+            "name": "卢布尔雅那",
+            "desc": "斯洛文尼亚的绿色首都，龙桥与河畔的宁静",
+            "latitude": 46.0569,
+            "longitude": 14.5058,
+            "address": "Ljubljana, Slovenia"
+        },
+        {
+            "name": "科尔马",
+            "desc": "法国阿尔萨斯的童话小镇，彩色木屋的梦境",
+            "latitude": 48.0794,
+            "longitude": 7.3558,
+            "address": "Colmar, France"
+        },
+        {
+            "name": "乌代布尔",
+            "desc": "印度湖城，水上宫殿与白色之城的异域浪漫",
+            "latitude": 24.5854,
+            "longitude": 73.7125,
+            "address": "Udaipur, Rajasthan, India"
+        },
+        {
+            "name": "萨瓦纳",
+            "desc": "美国南方的优雅之城，西班牙苔藓下的慵懒",
+            "latitude": 32.0809,
+            "longitude": -81.0912,
+            "address": "Savannah, GA, USA"
+        },
+        {
+            "name": "格拉纳达",
+            "desc": "阿尔罕布拉宫的摩尔之梦，雪山与玫瑰园",
+            "latitude": 37.1773,
+            "longitude": -3.5986,
+            "address": "Granada, Spain"
+        },
+        {
+            "name": "布宜诺斯艾利斯",
+            "desc": "南美巴黎，探戈与牛排中的热烈爱情",
+            "latitude": -34.6037,
+            "longitude": -58.3816,
+            "address": "Buenos Aires, Argentina"
+        },
+        {
+            "name": "哥本哈根",
+            "desc": "安徒生童话的起点，新港彩色房屋的温馨",
+            "latitude": 55.6761,
+            "longitude": 12.5683,
+            "address": "Copenhagen, Denmark"
+        },
+        {
+            "name": "丽江",
+            "desc": "雪山下的纳西古城，屋顶上的星空为证",
+            "latitude": 26.8721,
+            "longitude": 100.2299,
+            "address": "中国云南省丽江市"
+        },
+        {
+            "name": "锡耶纳",
+            "desc": "托斯卡纳心脏的中世纪之城，广场上的赛马与深情",
+            "latitude": 43.3188,
+            "longitude": 11.3308,
+            "address": "Siena, Italy"
+        },
+        {
+            "name": "樱花季的东京",
+            "desc": "当粉色花瓣飘落目黑川，整座城市都在恋爱",
+            "latitude": 35.6762,
+            "longitude": 139.6503,
+            "address": "Tokyo, Japan"
+        },
+        {
+            "name": "辛特拉",
+            "desc": "葡萄牙山中的彩色宫殿，拜伦笔下的伊甸园",
+            "latitude": 38.7993,
+            "longitude": -9.3881,
+            "address": "Sintra, Portugal"
+        },
+        {
+            "name": "菲斯",
+            "desc": "摩洛哥古城迷宫，时光倒流的异域奇遇",
+            "latitude": 34.0331,
+            "longitude": -5.0003,
+            "address": "Fes, Morocco"
+        },
+        {
+            "name": "五渔村",
+            "desc": "意大利悬崖上的五色渔村，地中海的调色盘",
+            "latitude": 44.1461,
+            "longitude": 9.6439,
+            "address": "Cinque Terre, Italy"
+        },
+        {
+            "name": "杭州",
+            "desc": "西湖十景间的千年情缘，断桥不断有情人",
+            "latitude": 30.2741,
+            "longitude": 120.1551,
+            "address": "中国浙江省杭州市"
+        },
+        {
+            "name": "塔林",
+            "desc": "波罗的海的中世纪童话，古城塔楼间的情话",
+            "latitude": 59.437,
+            "longitude": 24.7536,
+            "address": "Tallinn, Estonia"
+        },
+        {
+            "name": "基韦斯特",
+            "desc": "美国最南端的日落庆典，海明威的自由天堂",
+            "latitude": 24.5551,
+            "longitude": -81.78,
+            "address": "Key West, FL, USA"
+        },
+        {
+            "name": "伊斯坦布尔",
+            "desc": "东西方交汇的千年之城，海峡两岸的深情凝望",
+            "latitude": 41.0082,
+            "longitude": 28.9784,
+            "address": "Istanbul, Turkey"
+        },
+        {
+            "name": "托斯卡纳乡间",
+            "desc": "意大利田园诗的极致，柏树与向日葵的画布",
+            "latitude": 43.3506,
+            "longitude": 11.0166,
+            "address": "Tuscany, Italy"
+        },
+        {
+            "name": "班夫",
+            "desc": "加拿大落基山的翡翠湖泊，大自然最纯粹的浪漫",
+            "latitude": 51.1784,
+            "longitude": -115.5708,
+            "address": "Banff, Alberta, Canada"
+        }
+    ],
+    "count": 50
+}

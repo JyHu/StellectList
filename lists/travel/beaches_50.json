@@ -1,0 +1,361 @@
+{
+    "id": "beaches_50",
+    "name": "全球最美的50片海滩",
+    "desc": "脚踩细沙，面朝大海",
+    "icon": "beach.umbrella.fill",
+    "category": "travel",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "白天堂海滩",
+            "desc": "澳大利亚圣灵群岛的纯白硅沙，潮汐绘出的天然画卷",
+            "latitude": -20.2836,
+            "longitude": 149.0383,
+            "address": "Whitehaven Beach, Whitsunday Islands, Queensland, Australia"
+        },
+        {
+            "name": "格蕾丝湾海滩",
+            "desc": "特克斯和凯科斯的完美白沙，年年蝉联全球最佳",
+            "latitude": 21.7964,
+            "longitude": -72.1878,
+            "address": "Grace Bay Beach, Providenciales, Turks and Caicos"
+        },
+        {
+            "name": "纳瓦吉奥海滩（沉船湾）",
+            "desc": "希腊扎金索斯岛的标志，白崖环抱的碧蓝秘境",
+            "latitude": 37.8597,
+            "longitude": 20.6244,
+            "address": "Navagio Beach, Zakynthos, Greece"
+        },
+        {
+            "name": "安塞拉齐奥海滩",
+            "desc": "塞舌尔拉迪格岛的花岗岩仙境，自然界的完美构图",
+            "latitude": -4.3747,
+            "longitude": 55.8581,
+            "address": "Anse Source d'Argent, La Digue, Seychelles"
+        },
+        {
+            "name": "玛雅湾",
+            "desc": "泰国皮皮岛的翡翠明珠，电影《海滩》的取景地",
+            "latitude": 7.6779,
+            "longitude": 98.7666,
+            "address": "Maya Bay, Phi Phi Leh, Thailand"
+        },
+        {
+            "name": "博拉凯白沙滩",
+            "desc": "菲律宾的白色天堂，四公里绵延细沙如面粉",
+            "latitude": 11.9619,
+            "longitude": 121.9228,
+            "address": "White Beach, Boracay, Philippines"
+        },
+        {
+            "name": "马特拉海滩",
+            "desc": "巴西里约热内卢的城市海滩，面包山下的热带活力",
+            "latitude": -22.9714,
+            "longitude": -43.1822,
+            "address": "Copacabana Beach, Rio de Janeiro, Brazil"
+        },
+        {
+            "name": "Pink Sands Beach",
+            "desc": "巴哈马港岛的粉色奇迹，有孔虫赋予的梦幻色彩",
+            "latitude": 25.5185,
+            "longitude": -76.6363,
+            "address": "Pink Sands Beach, Harbour Island, Bahamas"
+        },
+        {
+            "name": "七英里海滩",
+            "desc": "开曼群岛的加勒比经典，珊瑚沙与棕榈树的画卷",
+            "latitude": 19.3373,
+            "longitude": -81.3862,
+            "address": "Seven Mile Beach, Grand Cayman, Cayman Islands"
+        },
+        {
+            "name": "拉尼凯海滩",
+            "desc": "夏威夷欧胡岛最美海滩，翡翠绿海水的天堂",
+            "latitude": 21.3872,
+            "longitude": -157.7139,
+            "address": "Lanikai Beach, Oahu, Hawaii, USA"
+        },
+        {
+            "name": "威尼斯海滩",
+            "desc": "洛杉矶的海滨文化熔炉，艺术与阳光的加州生活",
+            "latitude": 33.985,
+            "longitude": -118.4695,
+            "address": "Venice Beach, Los Angeles, CA, USA"
+        },
+        {
+            "name": "邦迪海滩",
+            "desc": "悉尼标志性冲浪海滩，澳洲生活方式的缩影",
+            "latitude": -33.8908,
+            "longitude": 151.2743,
+            "address": "Bondi Beach, Sydney, Australia"
+        },
+        {
+            "name": "百衲海滩",
+            "desc": "墨西哥坎昆的加勒比白沙，绿松石色大海的诱惑",
+            "latitude": 21.1278,
+            "longitude": -86.753,
+            "address": "Playa Delfines, Cancún, Mexico"
+        },
+        {
+            "name": "安塞拉齐奥海滩（普拉兰岛）",
+            "desc": "塞舌尔另一处绝美海滩，棕榈树与花岗岩的画框",
+            "latitude": -4.3197,
+            "longitude": 55.7001,
+            "address": "Anse Lazio, Praslin, Seychelles"
+        },
+        {
+            "name": "弗拉门戈海滩",
+            "desc": "波多黎各库莱布拉岛的无暇新月形白沙湾",
+            "latitude": 18.3222,
+            "longitude": -65.3197,
+            "address": "Flamenco Beach, Culebra, Puerto Rico"
+        },
+        {
+            "name": "兰塔岛长滩",
+            "desc": "泰国安达曼海的宁静天堂，远离喧嚣的原始之美",
+            "latitude": 7.5697,
+            "longitude": 99.0295,
+            "address": "Long Beach, Koh Lanta, Thailand"
+        },
+        {
+            "name": "马尔代夫维利甘度岛海滩",
+            "desc": "印度洋最纯净的沙滩，水晶般清澈的浅海",
+            "latitude": 3.4687,
+            "longitude": 72.9266,
+            "address": "Veligandu Island Beach, Maldives"
+        },
+        {
+            "name": "艾格雷姆尼海滩",
+            "desc": "希腊莱夫卡达岛的悬崖海滩，碧蓝如宝石的海水",
+            "latitude": 38.7789,
+            "longitude": 20.5572,
+            "address": "Egremni Beach, Lefkada, Greece"
+        },
+        {
+            "name": "敦沙兰国家公园海滩",
+            "desc": "马来西亚兰卡威的地质公园海滩，红树林与碧海",
+            "latitude": 6.4309,
+            "longitude": 99.6837,
+            "address": "Tanjung Rhu Beach, Langkawi, Malaysia"
+        },
+        {
+            "name": "考拉比海滩",
+            "desc": "泰国南部的隐秘天堂，石灰岩岛与碧绿海面",
+            "latitude": 8.0863,
+            "longitude": 98.7667,
+            "address": "Railay Beach, Krabi, Thailand"
+        },
+        {
+            "name": "巴拉德罗海滩",
+            "desc": "古巴最著名的度假海滩，二十公里白沙绵延",
+            "latitude": 23.1536,
+            "longitude": -81.2464,
+            "address": "Varadero Beach, Cuba"
+        },
+        {
+            "name": "波尔图圣斯特凡诺",
+            "desc": "意大利托斯卡纳海岸的银色沙滩",
+            "latitude": 42.4358,
+            "longitude": 11.118,
+            "address": "Porto Santo Stefano, Tuscany, Italy"
+        },
+        {
+            "name": "菲诺港海滩",
+            "desc": "意大利利古里亚的奢华渔村，碧绿港湾的优雅",
+            "latitude": 44.3044,
+            "longitude": 9.2085,
+            "address": "Portofino, Liguria, Italy"
+        },
+        {
+            "name": "凯卢阿海滩",
+            "desc": "夏威夷欧胡岛东岸的绿松石水域",
+            "latitude": 21.3962,
+            "longitude": -157.7261,
+            "address": "Kailua Beach, Oahu, Hawaii, USA"
+        },
+        {
+            "name": "图卢姆海滩",
+            "desc": "墨西哥玛雅遗址下的加勒比海滩，历史与海蓝的交汇",
+            "latitude": 20.2141,
+            "longitude": -87.4291,
+            "address": "Tulum Beach, Quintana Roo, Mexico"
+        },
+        {
+            "name": "东非迪亚尼海滩",
+            "desc": "肯尼亚印度洋海岸的白沙绿水，珊瑚礁保护完好",
+            "latitude": -4.3177,
+            "longitude": 39.5832,
+            "address": "Diani Beach, Kenya"
+        },
+        {
+            "name": "黄金海岸冲浪者天堂",
+            "desc": "澳大利亚昆士兰的冲浪圣地，阳光永不缺席",
+            "latitude": -28.0024,
+            "longitude": 153.4308,
+            "address": "Surfers Paradise, Gold Coast, Queensland, Australia"
+        },
+        {
+            "name": "仙本那马布岛",
+            "desc": "马来西亚沙巴的玻璃海，海上巴瑶族的故乡",
+            "latitude": 4.2488,
+            "longitude": 118.63,
+            "address": "Mabul Island, Semporna, Sabah, Malaysia"
+        },
+        {
+            "name": "尼西海滩",
+            "desc": "塞浦路斯最美海滩，清澈浅蓝的地中海明珠",
+            "latitude": 34.987,
+            "longitude": 33.9569,
+            "address": "Nissi Beach, Ayia Napa, Cyprus"
+        },
+        {
+            "name": "马塔皮图海滩",
+            "desc": "萨摩亚的天然海沟泳池，火山岩中的碧蓝秘境",
+            "latitude": -13.759,
+            "longitude": -171.8439,
+            "address": "To Sua Ocean Trench, Samoa"
+        },
+        {
+            "name": "象牙湾",
+            "desc": "意大利阿马尔菲海岸的僻静宝石，只能乘船到达",
+            "latitude": 40.6195,
+            "longitude": 14.4999,
+            "address": "Fiordo di Furore, Amalfi Coast, Italy"
+        },
+        {
+            "name": "科隆岛凯央根湖",
+            "desc": "菲律宾巴拉望的喀斯特泻湖，被评为世界最干净",
+            "latitude": 11.9931,
+            "longitude": 120.2027,
+            "address": "Kayangan Lake, Coron, Palawan, Philippines"
+        },
+        {
+            "name": "汉密尔顿岛海滩",
+            "desc": "澳大利亚大堡礁门户，心形礁近在咫尺",
+            "latitude": -20.3515,
+            "longitude": 148.9543,
+            "address": "Hamilton Island, Queensland, Australia"
+        },
+        {
+            "name": "阿楠巴斯海滩",
+            "desc": "印度尼西亚的隐秘碧水，远离世界的纯净",
+            "latitude": 3.2093,
+            "longitude": 106.2431,
+            "address": "Anambas Islands, Indonesia"
+        },
+        {
+            "name": "底湾海滩",
+            "desc": "维尔京群岛的标志性海滩，巨石与白沙的奇景",
+            "latitude": 18.4412,
+            "longitude": -64.3421,
+            "address": "The Baths, Virgin Gorda, British Virgin Islands"
+        },
+        {
+            "name": "西拉奥内海滩",
+            "desc": "西非塞拉利昂的隐世海滩，未被发现的热带天堂",
+            "latitude": 8.4907,
+            "longitude": -13.2344,
+            "address": "River No. 2 Beach, Sierra Leone"
+        },
+        {
+            "name": "米尔托斯海滩",
+            "desc": "希腊凯法利尼亚岛的白色鹅卵石与湛蓝深海",
+            "latitude": 38.3464,
+            "longitude": 20.5189,
+            "address": "Myrtos Beach, Kefalonia, Greece"
+        },
+        {
+            "name": "威基基海滩",
+            "desc": "夏威夷最具标志性的城市海滩，钻石头山为背景",
+            "latitude": 21.276,
+            "longitude": -157.8273,
+            "address": "Waikiki Beach, Honolulu, Hawaii, USA"
+        },
+        {
+            "name": "百慕大马蹄湾",
+            "desc": "大西洋的粉色奇迹，马蹄形悬崖环抱的粉沙湾",
+            "latitude": 32.2475,
+            "longitude": -64.84,
+            "address": "Horseshoe Bay, Bermuda"
+        },
+        {
+            "name": "阿鲁巴鹰滩",
+            "desc": "加勒比海最宽阔的白沙滩，常年和风丽日",
+            "latitude": 12.5486,
+            "longitude": -70.0557,
+            "address": "Eagle Beach, Aruba"
+        },
+        {
+            "name": "巴厘岛金巴兰海滩",
+            "desc": "巴厘岛最美日落海滩，烛光海鲜晚餐的圣地",
+            "latitude": -8.7876,
+            "longitude": 115.1556,
+            "address": "Jimbaran Beach, Bali, Indonesia"
+        },
+        {
+            "name": "伊帕内玛海滩",
+            "desc": "里约热内卢的时尚海滩，波萨诺瓦名曲的灵感",
+            "latitude": -22.9835,
+            "longitude": -43.1985,
+            "address": "Ipanema Beach, Rio de Janeiro, Brazil"
+        },
+        {
+            "name": "亚庇丹绒亚路海滩",
+            "desc": "马来西亚沙巴的日落胜地，世界三大日落之一",
+            "latitude": 5.9567,
+            "longitude": 116.0396,
+            "address": "Tanjung Aru Beach, Kota Kinabalu, Sabah, Malaysia"
+        },
+        {
+            "name": "古巴猪湾",
+            "desc": "古巴南岸的原始碧蓝海湾，珊瑚丰富的潜水天堂",
+            "latitude": 22.0753,
+            "longitude": -81.1699,
+            "address": "Bay of Pigs, Cuba"
+        },
+        {
+            "name": "宫古岛与那霸前滨",
+            "desc": "日本冲绳最美海滩，绵延七公里的东洋白沙",
+            "latitude": 24.7431,
+            "longitude": 125.2637,
+            "address": "Yonaha Maehama Beach, Miyako Island, Okinawa, Japan"
+        },
+        {
+            "name": "安蒂贝角海滩",
+            "desc": "法国蔚蓝海岸的奢华海滩，毕加索的地中海",
+            "latitude": 43.5528,
+            "longitude": 7.1258,
+            "address": "Cap d'Antibes, French Riviera, France"
+        },
+        {
+            "name": "克利夫顿海滩",
+            "desc": "南非开普敦的大西洋明珠，十二使徒峰为背景",
+            "latitude": -33.9468,
+            "longitude": 18.3753,
+            "address": "Clifton Beach, Cape Town, South Africa"
+        },
+        {
+            "name": "贝拉斯海滩",
+            "desc": "葡萄牙卡斯卡伊斯的大西洋沙滩，里斯本人的后花园",
+            "latitude": 38.6922,
+            "longitude": -9.4635,
+            "address": "Praia de Carcavelos, Cascais, Portugal"
+        },
+        {
+            "name": "圣莫尼卡海滩",
+            "desc": "加州66号公路的终点，太平洋落日的永恒画面",
+            "latitude": 34.0094,
+            "longitude": -118.4973,
+            "address": "Santa Monica Beach, CA, USA"
+        },
+        {
+            "name": "费尔南多·迪诺罗尼亚群岛",
+            "desc": "巴西大西洋的生态天堂，限制游客数量的原始海滩",
+            "latitude": -3.8544,
+            "longitude": -32.4246,
+            "address": "Baía do Sancho, Fernando de Noronha, Brazil"
+        }
+    ],
+    "count": 50
+}

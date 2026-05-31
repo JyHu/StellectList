@@ -1,0 +1,33 @@
+{
+    "id": "food",
+    "name": "美食",
+    "icon": "fork.knife",
+    "desc": "用味蕾探索世界",
+    "count": 3,
+    "items": [
+        {
+            "id": "noodles_china_50",
+            "name": "中国最好吃的50碗面",
+            "desc": "一碗面里的乡愁",
+            "icon": "fork.knife",
+            "date": "2026-05-31",
+            "count": 50
+        },
+        {
+            "id": "cafes_50",
+            "name": "全球最棒的50家咖啡馆",
+            "desc": "一杯咖啡，一段时光",
+            "icon": "cup.and.saucer.fill",
+            "date": "2026-05-31",
+            "count": 50
+        },
+        {
+            "id": "food_100",
+            "name": "此生必吃的100样美食",
+            "desc": "用味蕾探索世界，每一口都是旅行",
+            "icon": "fork.knife",
+            "date": "2026-05-31",
+            "count": 100
+        }
+    ]
+}

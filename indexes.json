@@ -1,0 +1,104 @@
+{
+    "updateAt": 1780210910816,
+    "categories": {
+        "book": [
+            {
+                "id": "book",
+                "name": "阅读",
+                "icon": "book.fill",
+                "desc": "书中自有黄金屋",
+                "count": 2
+            }
+        ],
+        "city": [
+            {
+                "id": "city",
+                "name": "城市",
+                "icon": "building.2.fill",
+                "desc": "探索世界上最美的城市",
+                "count": 2
+            }
+        ],
+        "culture": [
+            {
+                "id": "culture",
+                "name": "文化",
+                "icon": "building.columns.fill",
+                "desc": "探索人类文明的瑰宝",
+                "count": 2
+            }
+        ],
+        "food": [
+            {
+                "id": "food",
+                "name": "美食",
+                "icon": "fork.knife",
+                "desc": "用味蕾探索世界",
+                "count": 3
+            }
+        ],
+        "hiking": [
+            {
+                "id": "hiking",
+                "name": "徒步",
+                "icon": "figure.hiking",
+                "desc": "徒步旅行的最佳目的地",
+                "count": 3
+            }
+        ],
+        "life": [
+            {
+                "id": "life",
+                "name": "人生",
+                "icon": "heart.fill",
+                "desc": "人生清单，不留遗憾",
+                "count": 2
+            }
+        ],
+        "movie": [
+            {
+                "id": "movie",
+                "name": "电影",
+                "icon": "film.fill",
+                "desc": "影史经典不可错过",
+                "count": 2
+            }
+        ],
+        "music": [
+            {
+                "id": "music",
+                "name": "音乐",
+                "icon": "music.note",
+                "desc": "用音乐感受世界",
+                "count": 2
+            }
+        ],
+        "nature": [
+            {
+                "id": "nature",
+                "name": "自然",
+                "icon": "leaf.fill",
+                "desc": "大自然的鬼斧神工",
+                "count": 3
+            }
+        ],
+        "sport": [
+            {
+                "id": "sport",
+                "name": "运动",
+                "icon": "sportscourt.fill",
+                "desc": "挑战身体的极限",
+                "count": 1
+            }
+        ],
+        "travel": [
+            {
+                "id": "travel",
+                "name": "旅行",
+                "icon": "airplane",
+                "desc": "世界那么大，我想去看看",
+                "count": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "hiking",
+    "name": "徒步",
+    "icon": "figure.hiking",
+    "desc": "徒步旅行的最佳目的地",
+    "count": 3,
+    "items": [
+        {
+            "id": "mountains_china",
+            "name": "中国最值得攀登的100座山",
+            "desc": "从五岳到名山，用脚步丈量祖国的壮丽山河",
+            "icon": "mountain.2.fill",
+            "date": "2026-05-31",
+            "count": 100
+        },
+        {
+            "id": "hiking_trails_50",
+            "name": "全球最美的50条徒步路线",
+            "desc": "用双脚丈量最美风景",
+            "icon": "figure.hiking",
+            "date": "2026-05-31",
+            "count": 50
+        },
+        {
+            "id": "beijing_mountains",
+            "name": "北京周边值得爬的50座山",
+            "desc": "京郊徒步宝藏，周末说走就走",
+            "icon": "figure.hiking",
+            "date": "2026-05-31",
+            "count": 50
+        }
+    ]
+}

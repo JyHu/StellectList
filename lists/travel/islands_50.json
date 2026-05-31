@@ -1,0 +1,361 @@
+{
+    "id": "islands_50",
+    "name": "全球最美的50座岛屿",
+    "desc": "碧海蓝天的人间仙境",
+    "icon": "sun.max.fill",
+    "category": "travel",
+    "date": "2026-05-31",
+    "items": [
+        {
+            "name": "马尔代夫",
+            "desc": "印度洋上的珍珠项链，水上屋与碧蓝浅海的极致奢华",
+            "latitude": 3.2028,
+            "longitude": 73.2207,
+            "address": "Maldives"
+        },
+        {
+            "name": "巴厘岛",
+            "desc": "众神之岛，梯田、庙宇与海浪的完美融合",
+            "latitude": -8.3405,
+            "longitude": 115.092,
+            "address": "Bali, Indonesia"
+        },
+        {
+            "name": "圣托里尼",
+            "desc": "爱琴海火山岛上的蓝白梦境，世界最美日落",
+            "latitude": 36.3932,
+            "longitude": 25.4615,
+            "address": "Santorini, Greece"
+        },
+        {
+            "name": "大溪地（塔希提）",
+            "desc": "南太平洋的伊甸园，高更画笔下的热带天堂",
+            "latitude": -17.6797,
+            "longitude": -149.4068,
+            "address": "Tahiti, French Polynesia"
+        },
+        {
+            "name": "波拉波拉岛",
+            "desc": "太平洋上的珍珠，翠绿山峰环绕的绝美泻湖",
+            "latitude": -16.5004,
+            "longitude": -151.7415,
+            "address": "Bora Bora, French Polynesia"
+        },
+        {
+            "name": "毛里求斯",
+            "desc": "印度洋上的彩虹国度，七色土与瀑布的奇观",
+            "latitude": -20.3484,
+            "longitude": 57.5522,
+            "address": "Mauritius"
+        },
+        {
+            "name": "塞舌尔",
+            "desc": "非洲伊甸园，巨型花岗岩与原始海滩的世外桃源",
+            "latitude": -4.6796,
+            "longitude": 55.492,
+            "address": "Seychelles"
+        },
+        {
+            "name": "斐济",
+            "desc": "南太平洋的心形岛国，世界上最早看到日出的地方",
+            "latitude": -17.7134,
+            "longitude": 178.065,
+            "address": "Fiji"
+        },
+        {
+            "name": "帕劳",
+            "desc": "太平洋的海底花园，水母湖与蓝角的潜水天堂",
+            "latitude": 7.515,
+            "longitude": 134.5825,
+            "address": "Palau"
+        },
+        {
+            "name": "加拉帕戈斯群岛",
+            "desc": "达尔文进化论的灵感之地，与史前生物面对面",
+            "latitude": -0.9538,
+            "longitude": -90.9656,
+            "address": "Galápagos Islands, Ecuador"
+        },
+        {
+            "name": "苏梅岛",
+            "desc": "泰国湾的椰树天堂，原始与奢华并存",
+            "latitude": 9.512,
+            "longitude": 100.0136,
+            "address": "Koh Samui, Thailand"
+        },
+        {
+            "name": "冰岛",
+            "desc": "冰与火之地，极光、温泉与瀑布的奇幻世界",
+            "latitude": 64.9631,
+            "longitude": -19.0208,
+            "address": "Iceland"
+        },
+        {
+            "name": "赞吉巴尔",
+            "desc": "东非的香料之岛，碧绿海水与阿拉伯古城",
+            "latitude": -6.1659,
+            "longitude": 39.2026,
+            "address": "Zanzibar, Tanzania"
+        },
+        {
+            "name": "夏威夷（茂宜岛）",
+            "desc": "太平洋的热带花园，哈雷阿卡拉日出震撼心灵",
+            "latitude": 20.7984,
+            "longitude": -156.3319,
+            "address": "Maui, Hawaii, USA"
+        },
+        {
+            "name": "普吉岛",
+            "desc": "安达曼海的明珠，泰国最大岛屿的热带风情",
+            "latitude": 7.8804,
+            "longitude": 98.3923,
+            "address": "Phuket, Thailand"
+        },
+        {
+            "name": "科西嘉岛",
+            "desc": "拿破仑的故乡，法国的野性之美",
+            "latitude": 42.0396,
+            "longitude": 9.0129,
+            "address": "Corsica, France"
+        },
+        {
+            "name": "马达加斯加",
+            "desc": "印度洋的诺亚方舟，独一无二的动植物王国",
+            "latitude": -18.7669,
+            "longitude": 46.8691,
+            "address": "Madagascar"
+        },
+        {
+            "name": "库克群岛",
+            "desc": "南太平洋最后的秘境，比波拉波拉更纯净",
+            "latitude": -21.2367,
+            "longitude": -159.7777,
+            "address": "Cook Islands"
+        },
+        {
+            "name": "卡普里岛",
+            "desc": "意大利那不勒斯湾的宝石，蓝洞的幽蓝光芒",
+            "latitude": 40.5531,
+            "longitude": 14.2224,
+            "address": "Capri, Italy"
+        },
+        {
+            "name": "圣巴托洛缪岛",
+            "desc": "加勒比海的法式奢华，名人隐世的度假天堂",
+            "latitude": 17.9,
+            "longitude": -62.8333,
+            "address": "Saint Barthélemy, Caribbean"
+        },
+        {
+            "name": "涛岛",
+            "desc": "泰国湾的潜水圣地，海龟的家园",
+            "latitude": 10.0956,
+            "longitude": 99.8378,
+            "address": "Koh Tao, Thailand"
+        },
+        {
+            "name": "西西里岛",
+            "desc": "地中海最大岛屿，火山、遗迹与美食的土地",
+            "latitude": 37.6,
+            "longitude": 14.0154,
+            "address": "Sicily, Italy"
+        },
+        {
+            "name": "克里特岛",
+            "desc": "希腊最大的岛屿，米诺斯文明的摇篮",
+            "latitude": 35.2401,
+            "longitude": 24.8093,
+            "address": "Crete, Greece"
+        },
+        {
+            "name": "复活节岛",
+            "desc": "太平洋上的孤独之岛，摩艾石像守望千年",
+            "latitude": -27.1127,
+            "longitude": -109.3497,
+            "address": "Easter Island, Chile"
+        },
+        {
+            "name": "兰卡威",
+            "desc": "马来西亚的免税天堂，天空之桥与红树林",
+            "latitude": 6.35,
+            "longitude": 99.8,
+            "address": "Langkawi, Malaysia"
+        },
+        {
+            "name": "马耳他",
+            "desc": "地中海中心的骑士之国，蜜色石灰岩的古老城邦",
+            "latitude": 35.9375,
+            "longitude": 14.3754,
+            "address": "Malta"
+        },
+        {
+            "name": "科莫多岛",
+            "desc": "巨龙的家园，粉红沙滩与史前之美",
+            "latitude": -8.55,
+            "longitude": 119.4833,
+            "address": "Komodo Island, Indonesia"
+        },
+        {
+            "name": "留尼汪岛",
+            "desc": "印度洋的法属火山岛，极致徒步与地质奇观",
+            "latitude": -21.1151,
+            "longitude": 55.5364,
+            "address": "Réunion, France"
+        },
+        {
+            "name": "菲律宾爱妮岛",
+            "desc": "巴拉望的秘境，喀斯特地貌与碧绿泻湖",
+            "latitude": 11.1784,
+            "longitude": 119.4069,
+            "address": "El Nido, Palawan, Philippines"
+        },
+        {
+            "name": "特内里费岛",
+            "desc": "加那利群岛的明星，大西洋中的永恒春天",
+            "latitude": 28.2916,
+            "longitude": -16.6291,
+            "address": "Tenerife, Canary Islands, Spain"
+        },
+        {
+            "name": "斯里兰卡",
+            "desc": "印度洋的宝石之岛，茶园、古寺与野性自然",
+            "latitude": 7.8731,
+            "longitude": 80.7718,
+            "address": "Sri Lanka"
+        },
+        {
+            "name": "长滩岛",
+            "desc": "菲律宾的白色天堂，细如面粉的白沙滩",
+            "latitude": 11.9674,
+            "longitude": 121.9248,
+            "address": "Boracay, Philippines"
+        },
+        {
+            "name": "瓦努阿图",
+            "desc": "南太平洋的快乐国度，活火山上的蹦极",
+            "latitude": -17.7334,
+            "longitude": 168.3273,
+            "address": "Vanuatu"
+        },
+        {
+            "name": "米科诺斯岛",
+            "desc": "爱琴海的派对之岛，风车与白色迷宫",
+            "latitude": 37.4467,
+            "longitude": 25.3289,
+            "address": "Mykonos, Greece"
+        },
+        {
+            "name": "格陵兰",
+            "desc": "世界最大岛屿，冰川与极光下的壮美孤寂",
+            "latitude": 71.7069,
+            "longitude": -42.6043,
+            "address": "Greenland"
+        },
+        {
+            "name": "龟岛（加拉帕戈斯圣克鲁斯）",
+            "desc": "与百年巨龟同行，进化奇迹的活教室",
+            "latitude": -0.7393,
+            "longitude": -90.3038,
+            "address": "Santa Cruz, Galápagos, Ecuador"
+        },
+        {
+            "name": "安圭拉",
+            "desc": "加勒比海最美沙滩的集合地，宁静奢华",
+            "latitude": 18.2206,
+            "longitude": -63.0686,
+            "address": "Anguilla, Caribbean"
+        },
+        {
+            "name": "仙本那",
+            "desc": "马来西亚的海上吉普赛人家园，玻璃般的碧海",
+            "latitude": 4.4814,
+            "longitude": 118.6137,
+            "address": "Semporna, Sabah, Malaysia"
+        },
+        {
+            "name": "撒丁岛",
+            "desc": "意大利的翡翠海岸，地中海最纯净的海水",
+            "latitude": 40.1209,
+            "longitude": 9.0129,
+            "address": "Sardinia, Italy"
+        },
+        {
+            "name": "汤加",
+            "desc": "南太平洋的鲸鱼王国，与座头鲸共泳",
+            "latitude": -21.179,
+            "longitude": -175.1982,
+            "address": "Tonga"
+        },
+        {
+            "name": "罗弗敦群岛",
+            "desc": "北极圈内的维京渔村，峡湾与极光的震撼",
+            "latitude": 68.2094,
+            "longitude": 14.5637,
+            "address": "Lofoten Islands, Norway"
+        },
+        {
+            "name": "济州岛",
+            "desc": "韩国的火山岛，汉拿山、海女与黑猪的乐园",
+            "latitude": 33.489,
+            "longitude": 126.4983,
+            "address": "Jeju Island, South Korea"
+        },
+        {
+            "name": "圣卢西亚",
+            "desc": "加勒比海的双峰之岛，皮通山下的热带奢华",
+            "latitude": 13.9094,
+            "longitude": -60.9789,
+            "address": "Saint Lucia, Caribbean"
+        },
+        {
+            "name": "宫古岛",
+            "desc": "日本冲绳的碧蓝宝石，东洋最美的珊瑚海",
+            "latitude": 24.7912,
+            "longitude": 125.2813,
+            "address": "Miyako Island, Okinawa, Japan"
+        },
+        {
+            "name": "马约特岛",
+            "desc": "印度洋中的法属泻湖，世界最大封闭泻湖",
+            "latitude": -12.8275,
+            "longitude": 45.1662,
+            "address": "Mayotte, France"
+        },
+        {
+            "name": "亚速尔群岛",
+            "desc": "大西洋中的绿色群岛，葡萄牙的秘密花园",
+            "latitude": 37.7412,
+            "longitude": -25.6756,
+            "address": "Azores, Portugal"
+        },
+        {
+            "name": "涠洲岛",
+            "desc": "中国最年轻的火山岛，北部湾的天然乐园",
+            "latitude": 21.0527,
+            "longitude": 109.1022,
+            "address": "中国广西壮族自治区北海市涠洲岛"
+        },
+        {
+            "name": "怀特岛",
+            "desc": "英国南海岸的度假宝石，维多利亚女王的挚爱",
+            "latitude": 50.6938,
+            "longitude": -1.3047,
+            "address": "Isle of Wight, England, UK"
+        },
+        {
+            "name": "所罗门群岛",
+            "desc": "南太平洋的原始天堂，二战沉船与珊瑚花园",
+            "latitude": -9.6457,
+            "longitude": 160.1562,
+            "address": "Solomon Islands"
+        },
+        {
+            "name": "特克斯和凯科斯群岛",
+            "desc": "加勒比海的隐秘瑰宝，Grace Bay绝美白沙",
+            "latitude": 21.694,
+            "longitude": -71.7979,
+            "address": "Turks and Caicos Islands"
+        }
+    ],
+    "count": 50
+}
