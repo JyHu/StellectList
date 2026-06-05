@@ -1,8 +1,9 @@
 {
-    "updateAt": 1780215849,
+    "updateAt": 1780502457,
     "categories": [
         {
-            "id": "book",
+            "id": "F4D50D0A-8812-4969-8774-BC610E9AE079",
+            "name_key": "book",
             "name": "阅读",
             "icon": "book.fill",
             "desc": "书中自有黄金屋",
@@ -10,7 +11,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "city",
+            "id": "AC17B3DC-35FF-4C48-9929-C795827E64A4",
+            "name_key": "city",
             "name": "城市",
             "icon": "building.2.fill",
             "desc": "探索世界上最美的城市",
@@ -18,7 +20,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "culture",
+            "id": "18BACC41-1C64-4EA3-AFAE-F7C1B7D1FBEC",
+            "name_key": "culture",
             "name": "文化",
             "icon": "building.columns.fill",
             "desc": "探索人类文明的瑰宝",
@@ -26,7 +29,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "food",
+            "id": "080F6913-0B39-478B-A7E5-88D694540347",
+            "name_key": "food",
             "name": "美食",
             "icon": "fork.knife",
             "desc": "用味蕾探索世界",
@@ -34,7 +38,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "hiking",
+            "id": "AA946294-95CF-47E8-8580-683B991051D3",
+            "name_key": "hiking",
             "name": "徒步",
             "icon": "figure.hiking",
             "desc": "徒步旅行的最佳目的地",
@@ -42,7 +47,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "life",
+            "id": "CE1EB4D3-35C3-4CEB-8C9F-6F46CB3D27EF",
+            "name_key": "life",
             "name": "人生",
             "icon": "heart.fill",
             "desc": "人生清单，不留遗憾",
@@ -50,7 +56,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "movie",
+            "id": "7AB625D7-6D7C-43B1-8AAF-BA5190768BA6",
+            "name_key": "movie",
             "name": "电影",
             "icon": "film.fill",
             "desc": "影史经典不可错过",
@@ -58,7 +65,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "music",
+            "id": "547B4DDD-14DC-4880-9BF8-07DB8D70E101",
+            "name_key": "music",
             "name": "音乐",
             "icon": "music.note",
             "desc": "用音乐感受世界",
@@ -66,7 +74,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "nature",
+            "id": "4BF9F907-2E73-4E25-8A76-7554F095E25B",
+            "name_key": "nature",
             "name": "自然",
             "icon": "leaf.fill",
             "desc": "大自然的鬼斧神工",
@@ -74,7 +83,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "sport",
+            "id": "4F303C09-198D-4D2C-970D-B5AB6B0E4C36",
+            "name_key": "sport",
             "name": "运动",
             "icon": "sportscourt.fill",
             "desc": "挑战身体的极限",
@@ -82,7 +92,8 @@
             "updateAt": 1780156800
         },
         {
-            "id": "travel",
+            "id": "D1D2BF90-FA50-4985-8CD0-5634E41C626D",
+            "name_key": "travel",
             "name": "旅行",
             "icon": "airplane",
             "desc": "世界那么大，我想去看看",

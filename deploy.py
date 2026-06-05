@@ -8,6 +8,7 @@ and generates indexes.
 
 import json
 import shutil
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -17,7 +18,7 @@ LISTS_DIR = ROOT_DIR / "lists"
 TMPS_DIR = ROOT_DIR / "tmps"
 ROOT_INDEX = ROOT_DIR / "indexes.json"
 
-REQUIRED_FIELDS = {"id", "name", "desc", "icon", "category", "date", "items"}
+REQUIRED_FIELDS = {"id", "name_key", "name", "desc", "icon", "category", "date", "items"}
 REQUIRED_ITEM_FIELDS = {"name"}
 OPTIONAL_ITEM_FIELDS = {"desc", "address", "latitude", "longitude"}
 CATEGORY_INDEX_NAME = "_indexes.json"
@@ -91,6 +92,8 @@ def validate_json_file(filepath):
     # Validate field types
     if "id" in data and (not isinstance(data["id"], str) or not data["id"].strip()):
         errors.append("'id' must be a non-empty string")
+    if "name_key" in data and (not isinstance(data["name_key"], str) or not data["name_key"].strip()):
+        errors.append("'name_key' must be a non-empty string")
     if "name" in data and (not isinstance(data["name"], str) or not data["name"].strip()):
         errors.append("'name' must be a non-empty string")
     if "desc" in data and (not isinstance(data["desc"], str)):
@@ -162,11 +165,23 @@ def _date_to_timestamp(date_str):
         return 0
 
 
+def _gen_uuid():
+    """Generate a UUID using uuidgen command."""
+    result = subprocess.run(["uuidgen"], capture_output=True, text=True)
+    return result.stdout.strip()
+
+
 def update_list_file(filepath):
-    """Update count and convert date to second-level timestamp in a list JSON file."""
+    """Update count, ensure id/name_key, and convert date in a list JSON file."""
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
     data["count"] = len(data.get("items", []))
+    # Ensure name_key exists (same as filename without extension)
+    if "name_key" not in data:
+        data["name_key"] = filepath.stem
+    # Ensure id (UUID) exists
+    if "id" not in data:
+        data["id"] = _gen_uuid()
     # Convert date to second-level timestamp
     date_val = data.get("date", "")
     if isinstance(date_val, str) and date_val:
@@ -199,6 +214,7 @@ def generate_category_index(category_dir):
                 latest_date = int(date_val)
             items.append({
                 "id": data["id"],
+                "name_key": data.get("name_key", filepath.stem),
                 "name": data["name"],
                 "desc": data["desc"],
                 "icon": data.get("icon", ""),
@@ -211,15 +227,17 @@ def generate_category_index(category_dir):
     # Sort: newest date first, then by name alphabetically for same date
     items.sort(key=lambda x: (-x.get("date", 0), x.get("name", "")))
 
-    # Read existing _indexes.json to preserve category metadata (name/icon/desc)
+    # Read existing _indexes.json to preserve category metadata (name/icon/desc/id)
     cat_index_file = category_dir / CATEGORY_INDEX_NAME
     old_data = load_category_index(category_dir)
+    cat_id = old_data.get("id", _gen_uuid())
     cat_name = old_data.get("name", "")
     cat_icon = old_data.get("icon", "")
     cat_desc = old_data.get("desc", "")
 
     index_data = {
-        "id": category,
+        "id": cat_id,
+        "name_key": category,
         "name": cat_name,
         "icon": cat_icon,
         "desc": cat_desc,
@@ -255,6 +273,7 @@ def generate_root_index():
         if not cat_data:
             continue
 
+        cat_id = cat_data.get("id", _gen_uuid())
         cat_name = cat_data.get("name", "")
         cat_icon = cat_data.get("icon", "")
         cat_desc = cat_data.get("desc", "")
@@ -271,7 +290,8 @@ def generate_root_index():
         cat_update_at = cat_data.get("updateAt", 0)
 
         categories.append({
-            "id": category,
+            "id": cat_id,
+            "name_key": category,
             "name": cat_name,
             "icon": cat_icon,
             "desc": cat_desc,

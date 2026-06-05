@@ -1,5 +1,6 @@
 {
-    "id": "movie",
+    "id": "7AB625D7-6D7C-43B1-8AAF-BA5190768BA6",
+    "name_key": "movie",
     "name": "电影",
     "icon": "film.fill",
     "desc": "影史经典不可错过",
@@ -7,7 +8,8 @@
     "updateAt": 1780156800,
     "items": [
         {
-            "id": "movies_100",
+            "id": "27371A23-ABC3-409D-AE3C-512ED81A476E",
+            "name_key": "movies_100",
             "name": "一生必看的100部电影",
             "desc": "从黑白默片到现代佳作，影史经典不可错过",
             "icon": "film.fill",
@@ -15,7 +17,8 @@
             "count": 100
         },
         {
-            "id": "chinese_movies_50",
+            "id": "4A2E8D8D-A574-4114-A49F-85C4A4973C94",
+            "name_key": "chinese_movies_50",
             "name": "豆瓣评分最高的50部华语电影",
             "desc": "华语电影的巅峰之作",
             "icon": "film.fill",

@@ -1,5 +1,6 @@
 {
-    "id": "life",
+    "id": "CE1EB4D3-35C3-4CEB-8C9F-6F46CB3D27EF",
+    "name_key": "life",
     "name": "人生",
     "icon": "heart.fill",
     "desc": "人生清单，不留遗憾",
@@ -7,7 +8,8 @@
     "updateAt": 1780156800,
     "items": [
         {
-            "id": "life_100",
+            "id": "81596A0C-3777-47C2-AC21-A90BB4BB95FC",
+            "name_key": "life_100",
             "name": "一辈子要完成的100件事",
             "desc": "人生清单，不留遗憾",
             "icon": "heart.fill",
@@ -15,7 +17,8 @@
             "count": 100
         },
         {
-            "id": "before_retire_50",
+            "id": "CFE75AB1-81C6-4BAB-9047-145410127F21",
+            "name_key": "before_retire_50",
             "name": "退休前必完成的50件事",
             "desc": "趁还年轻，别留遗憾",
             "icon": "star.fill",

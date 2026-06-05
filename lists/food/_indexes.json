@@ -1,5 +1,6 @@
 {
-    "id": "food",
+    "id": "080F6913-0B39-478B-A7E5-88D694540347",
+    "name_key": "food",
     "name": "美食",
     "icon": "fork.knife",
     "desc": "用味蕾探索世界",
@@ -7,7 +8,8 @@
     "updateAt": 1780156800,
     "items": [
         {
-            "id": "noodles_china_50",
+            "id": "252727B0-E327-47A2-A8FD-F1C514CB28C9",
+            "name_key": "noodles_china_50",
             "name": "中国最好吃的50碗面",
             "desc": "一碗面里的乡愁",
             "icon": "fork.knife",
@@ -15,7 +17,8 @@
             "count": 50
         },
         {
-            "id": "cafes_50",
+            "id": "9CBEBBBE-DF15-4B9C-BFB4-BC51DFAE5EB4",
+            "name_key": "cafes_50",
             "name": "全球最棒的50家咖啡馆",
             "desc": "一杯咖啡，一段时光",
             "icon": "cup.and.saucer.fill",
@@ -23,7 +26,8 @@
             "count": 50
         },
         {
-            "id": "food_100",
+            "id": "8E0B433B-21D8-4BF2-9213-6E6935AF880D",
+            "name_key": "food_100",
             "name": "此生必吃的100样美食",
             "desc": "用味蕾探索世界，每一口都是旅行",
             "icon": "fork.knife",
