@@ -1,6 +1,5 @@
 {
     "id": "D1D2BF90-FA50-4985-8CD0-5634E41C626D",
-    "name_key": "travel",
     "name": "旅行",
     "icon": "airplane",
     "desc": "世界那么大，我想去看看",
@@ -9,7 +8,6 @@
     "items": [
         {
             "id": "D5383011-D977-4263-8BBE-82C4B25B6A13",
-            "name_key": "countries_50",
             "name": "一生必去的50个国家",
             "desc": "用脚步丈量世界",
             "icon": "globe.asia.australia.fill",
@@ -18,7 +16,6 @@
         },
         {
             "id": "04F138E1-974C-4D29-B47C-6D6D7BCD5751",
-            "name_key": "ancient_towns_50",
             "name": "中国最美的50个古镇",
             "desc": "青石板路上的旧时光",
             "icon": "house.fill",
@@ -27,7 +24,6 @@
         },
         {
             "id": "F88E6116-F66C-4DD8-A4DA-E2605F839E52",
-            "name_key": "islands_50",
             "name": "全球最美的50座岛屿",
             "desc": "碧海蓝天的人间仙境",
             "icon": "sun.max.fill",
@@ -36,7 +32,6 @@
         },
         {
             "id": "BCF45966-00BD-476E-BB17-8ABCEA96D0C6",
-            "name_key": "beaches_50",
             "name": "全球最美的50片海滩",
             "desc": "脚踩细沙，面朝大海",
             "icon": "beach.umbrella.fill",

@@ -1,6 +1,5 @@
 {
     "id": "F4D50D0A-8812-4969-8774-BC610E9AE079",
-    "name_key": "book",
     "name": "阅读",
     "icon": "book.fill",
     "desc": "书中自有黄金屋",
@@ -9,7 +8,6 @@
     "items": [
         {
             "id": "F5CDBD80-4F89-418F-A3E6-8370FB9EE7B8",
-            "name_key": "books_50",
             "name": "一生必读的50本书",
             "desc": "每一本都值得反复品味",
             "icon": "book.fill",
@@ -18,7 +16,6 @@
         },
         {
             "id": "0487B161-C5BC-402D-AA13-0ECA9873F6BD",
-            "name_key": "chinese_classics_50",
             "name": "中国人必读的50本国学经典",
             "desc": "传承千年的智慧",
             "icon": "text.book.closed.fill",

@@ -1,6 +1,5 @@
 {
     "id": "AC17B3DC-35FF-4C48-9929-C795827E64A4",
-    "name_key": "city",
     "name": "城市",
     "icon": "building.2.fill",
     "desc": "探索世界上最美的城市",
@@ -9,7 +8,6 @@
     "items": [
         {
             "id": "D4E5B776-A51D-416E-9CBE-8B5AB581C69F",
-            "name_key": "cities_china",
             "name": "中国最美的50座城市",
             "desc": "总有一座城市让你念念不忘",
             "icon": "building.2.fill",
@@ -18,7 +16,6 @@
         },
         {
             "id": "FDE01957-D775-4814-ACC2-DD31CC180460",
-            "name_key": "romantic_cities_50",
             "name": "全球最浪漫的50座城市",
             "desc": "和爱的人一起去",
             "icon": "heart.fill",

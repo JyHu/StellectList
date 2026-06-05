@@ -1,6 +1,5 @@
 {
     "id": "4F303C09-198D-4D2C-970D-B5AB6B0E4C36",
-    "name_key": "sport",
     "name": "运动",
     "icon": "sportscourt.fill",
     "desc": "挑战身体的极限",
@@ -9,7 +8,6 @@
     "items": [
         {
             "id": "658EAF9F-32E4-43E1-8491-0E72271F65C9",
-            "name_key": "sports_50",
             "name": "一生必体验的50项运动",
             "desc": "挑战自我，超越极限",
             "icon": "figure.run",

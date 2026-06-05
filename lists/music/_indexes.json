@@ -1,6 +1,5 @@
 {
     "id": "547B4DDD-14DC-4880-9BF8-07DB8D70E101",
-    "name_key": "music",
     "name": "音乐",
     "icon": "music.note",
     "desc": "用音乐感受世界",
@@ -9,7 +8,6 @@
     "items": [
         {
             "id": "E8A5C129-AC2C-4E23-B18A-49BC06031597",
-            "name_key": "music_50",
             "name": "一生必听的50首歌",
             "desc": "那些年循环播放的旋律",
             "icon": "music.note",
@@ -18,7 +16,6 @@
         },
         {
             "id": "4419421E-53FF-44B5-9464-223D5B7F6D7E",
-            "name_key": "chinese_albums_50",
             "name": "华语乐坛最经典的50张专辑",
             "desc": "每张都是一个时代的记忆",
             "icon": "opticaldisc.fill",

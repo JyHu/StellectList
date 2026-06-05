@@ -18,7 +18,7 @@ LISTS_DIR = ROOT_DIR / "lists"
 TMPS_DIR = ROOT_DIR / "tmps"
 ROOT_INDEX = ROOT_DIR / "indexes.json"
 
-REQUIRED_FIELDS = {"id", "name_key", "name", "desc", "icon", "category", "date", "items"}
+REQUIRED_FIELDS = {"id", "name", "desc", "icon", "category", "date", "items"}
 REQUIRED_ITEM_FIELDS = {"name"}
 OPTIONAL_ITEM_FIELDS = {"desc", "address", "latitude", "longitude"}
 CATEGORY_INDEX_NAME = "_indexes.json"
@@ -92,8 +92,6 @@ def validate_json_file(filepath):
     # Validate field types
     if "id" in data and (not isinstance(data["id"], str) or not data["id"].strip()):
         errors.append("'id' must be a non-empty string")
-    if "name_key" in data and (not isinstance(data["name_key"], str) or not data["name_key"].strip()):
-        errors.append("'name_key' must be a non-empty string")
     if "name" in data and (not isinstance(data["name"], str) or not data["name"].strip()):
         errors.append("'name' must be a non-empty string")
     if "desc" in data and (not isinstance(data["desc"], str)):
@@ -172,13 +170,10 @@ def _gen_uuid():
 
 
 def update_list_file(filepath):
-    """Update count, ensure id/name_key, and convert date in a list JSON file."""
+    """Update count, ensure id (UUID), and convert date in a list JSON file."""
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
     data["count"] = len(data.get("items", []))
-    # Ensure name_key exists (same as filename without extension)
-    if "name_key" not in data:
-        data["name_key"] = filepath.stem
     # Ensure id (UUID) exists
     if "id" not in data:
         data["id"] = _gen_uuid()
@@ -189,8 +184,15 @@ def update_list_file(filepath):
     elif isinstance(date_val, (int, float)) and date_val > 9999999999:
         # Was millisecond timestamp, convert to seconds
         data["date"] = int(date_val // 1000)
+    # Rename file to match id if needed
+    expected_name = f"{data['id']}.json"
+    if filepath.name != expected_name:
+        new_path = filepath.parent / expected_name
+        filepath.rename(new_path)
+        filepath = new_path
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
+    return filepath
 
 
 def generate_category_index(category_dir):
@@ -206,7 +208,7 @@ def generate_category_index(category_dir):
         file_count += 1
         try:
             # Update count and convert date in each list file
-            update_list_file(filepath)
+            filepath = update_list_file(filepath)
             with open(filepath, "r", encoding="utf-8") as f:
                 data = json.load(f)
             date_val = data.get("date", 0)
@@ -214,7 +216,6 @@ def generate_category_index(category_dir):
                 latest_date = int(date_val)
             items.append({
                 "id": data["id"],
-                "name_key": data.get("name_key", filepath.stem),
                 "name": data["name"],
                 "desc": data["desc"],
                 "icon": data.get("icon", ""),
@@ -237,7 +238,6 @@ def generate_category_index(category_dir):
 
     index_data = {
         "id": cat_id,
-        "name_key": category,
         "name": cat_name,
         "icon": cat_icon,
         "desc": cat_desc,
@@ -291,7 +291,6 @@ def generate_root_index():
 
         categories.append({
             "id": cat_id,
-            "name_key": category,
             "name": cat_name,
             "icon": cat_icon,
             "desc": cat_desc,
