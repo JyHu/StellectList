@@ -228,10 +228,10 @@ def generate_category_index(category_dir):
     # Sort: newest date first, then by name alphabetically for same date
     items.sort(key=lambda x: (-x.get("date", 0), x.get("name", "")))
 
-    # Read existing _indexes.json to preserve category metadata (name/icon/desc/id)
+    # Read existing _indexes.json to preserve category metadata (name/icon/desc)
     cat_index_file = category_dir / CATEGORY_INDEX_NAME
     old_data = load_category_index(category_dir)
-    cat_id = old_data.get("id", _gen_uuid())
+    cat_id = category  # Use folder name as id
     cat_name = old_data.get("name", "")
     cat_icon = old_data.get("icon", "")
     cat_desc = old_data.get("desc", "")
@@ -273,7 +273,7 @@ def generate_root_index():
         if not cat_data:
             continue
 
-        cat_id = cat_data.get("id", _gen_uuid())
+        cat_id = category  # Use folder name as id
         cat_name = cat_data.get("name", "")
         cat_icon = cat_data.get("icon", "")
         cat_desc = cat_data.get("desc", "")
